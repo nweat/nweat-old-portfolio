@@ -4,6 +4,7 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
+include: ["_pages"]
 
 # Site Settings
 locale                   : "en-US"
@@ -11,7 +12,7 @@ title                    : "Nicole Weatherburne"
 title_separator          : "-"
 name                     : "Nicole Weatherburne"
 description              : "Nicole Weatherburne Website"
-url                      : "https://nweat.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://nweat.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -63,30 +64,30 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Nicole Weatherburne"
+  name             : 
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Developer, Travel enthusiast, Researcher.. "
+  location         :
+  email            : "nikkiweat@gmail.com"
   uri              :
   bitbucket        :
-  codepen          :
+  codepen          : "nweat"
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "nweat"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "nicoleweatherburne"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "nikkiweat_nikki"
   vine             :
   weibo            :
   xing             :
@@ -148,7 +149,7 @@ kramdown:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /about
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -206,3 +207,12 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
