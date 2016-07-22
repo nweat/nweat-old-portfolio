@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Nicole Weatherburne"
 title_separator          : "-"
 name                     : "Nicole Weatherburne"
-description              : "Site coming soon.."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Nicole Weatherburne Website"
+url                      : "https://nweat.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -63,7 +63,7 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Nicole Weatherburne"
   avatar           : "bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Somewhere"
