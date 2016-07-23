@@ -4,7 +4,6 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
-include: ["_pages"]
 
 # Site Settings
 locale                   : "en-US"
@@ -67,7 +66,7 @@ author:
   name             : 
   avatar           : "myAvatar.png"
   bio              : "Developer, Travel enthusiast, Researcher.. "
-  location         :
+  location         : "Taiwan"
   email            : "nikkiweat@gmail.com"
   uri              :
   bitbucket        :
@@ -92,6 +91,7 @@ author:
   weibo            :
   xing             :
   youtube          :
+  PGP Public Key   : "test"
 
 
 # Reading Files
@@ -149,10 +149,10 @@ kramdown:
 
 
 # Outputting
-permalink: /about
+permalink: date
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Taipei # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -211,7 +211,7 @@ compress_html:
 defaults:
   # _pages
   - scope:
-      path: ""
+      path: "" # set path to set only files in this folder to have these settings
       type: pages
     values:
       layout: single
