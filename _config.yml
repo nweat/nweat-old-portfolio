@@ -91,7 +91,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  PGP Public Key   : "test"
+  publickey        : "test"
 
 
 # Reading Files

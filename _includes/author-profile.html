@@ -97,6 +97,9 @@
       {% if author.vine %}
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fa fa-fw fa-vine" aria-hidden="true"></i> Vine</a></li>
       {% endif %}
+      {% if author.publickey %}
+        <li><a href="https://github.com/nweat/nweat.github.io/tree/master/_data/PGP_public_key.txt" class="show-mes"><i class="fa fa-fw fa-user-secret" aria-hidden="true"></i> PGP Public Key</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>
