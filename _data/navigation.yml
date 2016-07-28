@@ -1,11 +1,11 @@
 # main links links
 main:
-  - title: "Who is Nicole?"
+  - title: "About Me"
     url: http://127.0.0.1:4000
 
   - title: "Projects"
     url:  http://127.0.0.1:4000/projects
-    
+
 
   #- title: "About"
   #  url: https://mmistakes.github.io/minimal-mistakes/

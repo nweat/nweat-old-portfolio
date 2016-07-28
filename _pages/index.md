@@ -3,10 +3,69 @@ sitemap: false
 excerpt: "About Nicole Weatherburne"
 permalink: /index.html
 ---
+<!--<link rel="stylesheet" href="assets/css/boostrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>-->
 
-# About Me
+<div class="panel panel-primary">
+      <div class="panel-heading">Education</div>
+      <ul class="list-group">
 
-{% include nav_list nav="foo" %} :smile:.
+      <li class="list-group-item">
+      <span class="underline">2015 - 2017</i></span>
+      <br><b>Master of Information Systems and Applications</b>
+      <br><i>National Tsing Hua University (Hsinchu, Taiwan) </i>
+      </li>
+
+      <li class="list-group-item">
+      <span class="underline">2012 - 2015 (Certificate courses)</i></span>
+      <br><b> <a href = "https://www.freecodecamp.com/nweat">FreeCodeCamp</a></b>
+      <br><b><a href = "https://www.codeschool.com/users/nweat123">CodeSchool</a></b>
+      <br><i>PHP II: Higher Structures, Zend Technologies Inc., February 2015</i>
+      <br><i>Going Places with Spatial Analysis, Udemy, December 2014</i>
+      </li>
+
+      <li class="list-group-item">
+      <span class="underline">2011</i></span>
+      <br><b>Bachelor of Science in Information Technology</b>
+      <br><i>University of Belize (Belmopan, Belize)</i>
+      <br><i>Cum Laude honours, 3.52</i>
+      </li>
+
+      </ul>
+</div>
+
+<div class="panel panel-primary">
+      <div class="panel-heading">Work Experience</div>
+      <ul class="list-group">
+
+      <li class="list-group-item">
+      <i>2015 - 2017</i>
+      <br><b>Master of Information Systems and Applications</b>
+      <br><i>National Tsing Hua University (Hsinchu, Taiwan) </i>
+      </li>
+
+      <li class="list-group-item">
+      <i>2012 - 2015   		</i>
+      <br><b> <a href = "https://www.freecodecamp.com/nweat">FreeCodeCamp</a></b>
+      <br><b><a href = "https://www.codeschool.com/users/nweat123">CodeSchool</a></b>
+      <br><i>PHP II: Higher Structures, Zend Technologies Inc., February 2015</i>
+      <br><i>Going Places with Spatial Analysis, Udemy, December 2014</i>
+      </li>
+
+      <li class="list-group-item">
+      <i>2011 	      		</i>
+      <br><b>Bachelor of Science in Information Technology</b>
+      <br><i>University of Belize (Belmopan, Belize)</i>
+      <br><i>Cum Laude honours, 3.52</i>
+      </li>
+
+      </ul>
+</div>
+
+
+
+ :smile:
 
 [![Minimal Mistakes live preview][2]][1]
 
