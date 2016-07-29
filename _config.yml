@@ -65,7 +65,7 @@ google_ad_slot           :
 author:
   name             : 
   avatar           : "Avatar.png"
-  bio              : "Developer, Travel enthusiast, Researcher.. "  
+  bio              : "Developer, teacher, researcher, travel and language exchange enthusiast"  
   location         : "Taiwan"
   email            : "nikkiweat@gmail.com"
   uri              :
@@ -149,7 +149,7 @@ kramdown:
 
 
 # Outputting
-permalink: date
+permalink: pretty
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: Asia/Taipei # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -216,3 +216,28 @@ defaults:
     values:
       layout: single
       author_profile: true
+      read_time: true
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+
+gallery:
+  - url: Avatar.png
+    image_path: Avatar.png
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: bio-photo.jpg
+    image_path: bio-photo.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
