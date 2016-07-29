@@ -35,8 +35,8 @@ SPAGS Information System (Environmental Research Institute)
 Coral Bleaching Information System (Environmental Research Institute)
 </div>
 <figure class="half">
-	<a href="images/Coral_1.jpg"><img src="images/Coral_1.jpg"></a>
-	<a href="images/CORAL_2.jpg"><img src="images/CORAL_2.jpg"></a>
+<a href="images/CORAL_2.png"><img src="images/CORAL_2.png"></a>
+	<a href="images/Coral_1.png"><img src="images/Coral_1.png"></a>
 	<figcaption>The National Coral Bleaching Monitoring Network (NCRMN) Information System provides coral bleaching statistical reports based on defined time periods and locations along the coast of Belize</figcaption>
 </figure>
 
