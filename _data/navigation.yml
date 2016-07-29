@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "About Me"
-    url: http://127.0.0.1:4000
+    url: https://nweat.github.io/
 
   - title: "Projects"
-    url:  http://127.0.0.1:4000/projects
+    url:  https://nweat.github.io/projects
 
 
   #- title: "About"
