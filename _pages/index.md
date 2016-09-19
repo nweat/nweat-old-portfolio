@@ -2,7 +2,7 @@
 sitemap: false
 excerpt: "About Nicole Weatherburne"
 permalink: /index.html
-date: 2016-07-29
+date: 2016-09-19
 ---
 <!--<link rel="stylesheet" href="assets/css/boostrap.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
@@ -38,6 +38,21 @@ date: 2016-07-29
 
       </ul>
 </div>
+
+<div class="panel panel-primary">
+      <div class="panel-heading">Favorite Books</div>
+      <ul class="list-group">
+
+      <li class="list-group-item">
+      <span>The Phoenix Project: A novel about IT, DevOps, and Helping your Business Win</span>
+      <br><i>2014 Gene Kim, Kevin Behr, George Spafford</i>
+      </li>
+
+     
+
+      </ul>
+</div>
+
 
 <div class="panel panel-primary">
       <div class="panel-heading">Work Experience</div>
