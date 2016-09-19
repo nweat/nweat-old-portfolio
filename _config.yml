@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nicole Weatherburne 妮可"
+title                    : "Nicole Weatherburnee 妮可"
 title_separator          : "-"
-name                     : "Nicole Weatherburne 妮可"
+name                     : "Nicole Weatherburnee 妮可"
 description              : "Nicole Weatherburne Website"
 url                      : "https://nweat.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
