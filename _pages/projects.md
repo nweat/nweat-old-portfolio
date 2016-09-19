@@ -2,7 +2,7 @@
 sitemap: false
 excerpt: "Nicole Weatherburne Projects"
 permalink: /projects.html
-tags: [portfolio, projects, work, past time projects, test]
+tags: [portfolio, projects, work, past time projects]
 date: 2016-07-29
 ---
 
