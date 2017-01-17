@@ -57,7 +57,18 @@ This application was an existing PHP application built using the Codeigniter fra
       <li class="list-group-item">
       <span class="underline"><b>Service Security (2016)</b> </span>
       <br><b><a href = "https://github.com/wisebits">Wisebits URL Shortner</a></b> 
-      <br>We developed a web application interface and a secured URL shortner API service. Registered users can create a shortened URL that is secure and shareable among users with appropriate permissions.
+      <br>Developed a secured service that allows authorized users to generate and share shortened URLs. Registered users can create a shortened URL that is secure and shareable among users with appropriate permissions.
+      <br><b><i>Gained experience in developing a secured distributed architecture which included:</i></b>
+      
+      <br><i>Securing databases through SQL injection, mass assignment restrictions, ORM based encryption (RbNacl)</i>
+      <br><i>API and interface testing</i>
+      <br><i>User Authentication (validations, login, logout, secure persistence of cookies and sessions,)</i>
+      <br><i>Password hashing (Salt + Hash + Key stretching)</i>
+      <br><i>Token based Authentication (secured session and cookies, safe user registration and authorization)</i>
+      <br><i>OAuth Authorization Protocol</i>
+      <br><i>Distributed web security (Signed client apps, preventing XSS/CSRF)</i>
+
+
       <br><br><i>Developed by Wisebits Team
       <br>National Tsing Hua University (Hsinchu, Taiwan) </i>
       </li>
@@ -66,6 +77,7 @@ This application was an existing PHP application built using the Codeigniter fra
       <span class="underline"><b>Service Oriented Architecture (2015)</b> </span>
       <br><b><a href = "https://github.com/ZhongMeiZhou">TraViz</a></b> 
       <br>We developed TraViz Web Application and Data API service. TraViz allows users to generate visualizations of lonely planet tour listings based on specified countries, categories and price range.
+      Developed experience in continuos integration
       <br><br><i>Developed by ZhongMeiZhou 中美洲 Team
       <br>National Tsing Hua University (Hsinchu, Taiwan) </i>
       </li>
