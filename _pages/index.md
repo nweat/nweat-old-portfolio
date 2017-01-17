@@ -18,6 +18,7 @@ date: 2016-09-19
       <li class="list-group-item">
       <span class="underline">2015 - 2017</span>
       <br><b>International Master of Information Systems and Applications</b>
+      <br><i>Current research interests: Detecting mental illness in social media </i>
       <br><i>National Tsing Hua University (Hsinchu, Taiwan) </i>
       </li>
 
