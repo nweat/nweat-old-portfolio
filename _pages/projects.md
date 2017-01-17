@@ -57,7 +57,7 @@ This application was an existing PHP application built using the Codeigniter fra
       <li class="list-group-item">
       <span class="underline"><b>Service Security (2016)</b> </span>
       <br><b><a href = "https://github.com/wisebits">Wisebits URL Shortner</a></b> 
-      <br>Developed a secured service that allows authorized users to generate and share shortened URLs. Registered users can create a shortened URL that is secure and shareable among users with appropriate permissions. The service was built in Ruby (Sinatra) using Slim and Bootstrap for the client application. We used heroku and postgres to host our services. We made use of Rbnacl cryptographic libraries for implementing security features <a href = "https://github.com/cryptosphere/rbnacl">https://github.com/cryptosphere/rbnacl</a>
+      <br>Developed a secured service that allows authorized users to generate and share shortened URLs. Registered users can create a shortened URL that is secure and shareable among users with appropriate permissions. The service was built in Ruby (Sinatra) using Slim and Bootstrap for the client application. We used heroku and postgres to host our services and databases. We made use of Rbnacl cryptographic libraries for implementing security features: <a href = "https://github.com/cryptosphere/rbnacl">https://github.com/cryptosphere/rbnacl</a>
       <br><br><b><i>Gained experience in developing a secured distributed architecture which included:</i></b>
 
       <br>- Securing databases through SQL injection, mass assignment restrictions, ORM based encryption
@@ -71,33 +71,37 @@ This application was an existing PHP application built using the Codeigniter fra
       <br>- Defining access control
       <br>- Enforce SSL/TLS
 
-      <figure class="half">
+      <figure>
       <a href="images/ss.png"><img src="images/ss.png"></a>
-      <figcaption>URL Shortner Service Structure</figcaption>
-</figure>
+      <figcaption>URL Shortner Service Architecture</figcaption>
+      </figure>
 
-
-      <br><br><i>Developed by Wisebits Team
+      <i>Developed by Wisebits Team
       <br>National Tsing Hua University (Hsinchu, Taiwan) </i>
       </li>
 
       <li class="list-group-item">
       <span class="underline"><b>Service Oriented Architecture (2015)</b> </span>
       <br><b><a href = "https://github.com/ZhongMeiZhou">TraViz</a></b> 
-      <br>We developed TraViz Web Application and Data API service. TraViz allows users to generate visualizations of lonely planet tour listings based on specified countries, categories and price range.
+      <br>We developed TraViz Web Application and Data API service. TraViz allows users to generate visualizations of lonely planet tour listings based on specified countries, categories and price range. The service was built in Ruby (Sinatra) using Slim and Bootstrap for the client application.
 
       <br><br><b><i>Gained experience in developing a service following a modern service oriented architecture design:</i></b>
 
-      <br>- Follow Agile development model
-      <br>- User Authentication
-      <br>- Password hashing (Salt + Hash + Key stretching)
-      <br>- Token based Authentication (secured session and cookies, safe user registration and authorization)
-      <br>- Token based Authorization (Signed client apps (JWK), secure API requests)
-      <br>- OAuth Authorization Protocol
-      <br>- Preventing XSS/CSRF attacks, protecting HTTP headers
-      <br>- API and interface testing
-      <br>- Defining access control
-      <br>- Enforce SSL/TLS
+      <br>- Followed Agile development model
+      <br>- Ruby gem created for lonely planet web scraping (OGA)
+      <br>- Continuos integration (Travis CI)
+      <br>- Continuos deployment (Heroku, Codeship)
+      <br>- Distributed Postgres database
+      <br>- Heavy emphasis on testing (Minitest, Stubs)
+      <br>- Interface design and testing (mobile first interface)
+      <br>- Data visualization (HighCharts, Chartkick)
+      <br>- Reactive user experience using background jobs, queues, web sockets, web caching
+      <br>- Refactored MVC with OOP (service, value, form objects)
+
+      <figure>
+      <a href="images/soa.png"><img src="images/soa.png"></a>
+      <figcaption>Sample architecture design</figcaption>
+      </figure>
 
 
       <br><br><i>Developed by ZhongMeiZhou 中美洲 Team
