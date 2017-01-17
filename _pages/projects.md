@@ -71,13 +71,16 @@ This application was an existing PHP application built using the Codeigniter fra
       <br>- Defining access control
       <br>- Enforce SSL/TLS
 
+
+      <br><i>Developed by Wisebits Team
+      <br>National Tsing Hua University (Hsinchu, Taiwan) </i>
+
       <figure>
       <a href="images/ss.png"><img src="images/ss.png"></a>
       <figcaption>URL Shortner Service Architecture</figcaption>
       </figure>
 
-      <i>Developed by Wisebits Team
-      <br>National Tsing Hua University (Hsinchu, Taiwan) </i>
+      
       </li>
 
       <li class="list-group-item">
@@ -98,14 +101,14 @@ This application was an existing PHP application built using the Codeigniter fra
       <br>- Reactive user experience using background jobs, queues, web sockets, web caching
       <br>- Refactored MVC with OOP (service, value, form objects)
 
+      <br><i>Developed by ZhongMeiZhou 中美洲 Team
+      <br>National Tsing Hua University (Hsinchu, Taiwan) </i>
+
       <figure>
       <a href="images/soa.png"><img src="images/soa.png"></a>
       <figcaption>Sample architecture design</figcaption>
       </figure>
 
-
-      <br><br><i>Developed by ZhongMeiZhou 中美洲 Team
-      <br>National Tsing Hua University (Hsinchu, Taiwan) </i>
       </li>
 
       <li class="list-group-item">
