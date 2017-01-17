@@ -72,7 +72,7 @@ This application was an existing PHP application built using the Codeigniter fra
       <br>- Enforce SSL/TLS
 
 
-      <br><i>Developed by Wisebits Team
+      <br><br><i>Developed by Wisebits Team
       <br>National Tsing Hua University (Hsinchu, Taiwan) </i>
 
       <figure>
@@ -101,7 +101,7 @@ This application was an existing PHP application built using the Codeigniter fra
       <br>- Reactive user experience using background jobs, queues, web sockets, web caching
       <br>- Refactored MVC with OOP (service, value, form objects)
 
-      <br><i>Developed by ZhongMeiZhou 中美洲 Team
+      <br><br><i>Developed by ZhongMeiZhou 中美洲 Team
       <br>National Tsing Hua University (Hsinchu, Taiwan) </i>
 
       <figure>
