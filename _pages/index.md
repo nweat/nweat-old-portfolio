@@ -19,7 +19,7 @@ date: 2016-09-19
       <span class="underline">2015 - 2017</span>
       <br><b>International Master of Information Systems and Applications</b>
       <br><b>Research focus: </b>
-      <br><i>Detecting mental illness in social media</i>
+      <br>Detecting mental illness in social media
       <br><br><i>National Tsing Hua University (Hsinchu, Taiwan) </i>
       </li>
 
