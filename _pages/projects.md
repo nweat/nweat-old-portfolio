@@ -57,16 +57,19 @@ This application was an existing PHP application built using the Codeigniter fra
       <li class="list-group-item">
       <span class="underline"><b>Service Security (2016)</b> </span>
       <br><b><a href = "https://github.com/wisebits">Wisebits URL Shortner</a></b> 
-      <br>Developed a secured service that allows authorized users to generate and share shortened URLs. Registered users can create a shortened URL that is secure and shareable among users with appropriate permissions.
-      <br><b><i>Gained experience in developing a secured distributed architecture which included:</i></b>
-      
-      <br><i>Securing databases through SQL injection, mass assignment restrictions, ORM based encryption (RbNacl)</i>
-      <br><i>API and interface testing</i>
-      <br><i>User Authentication (validations, login, logout, secure persistence of cookies and sessions,)</i>
-      <br><i>Password hashing (Salt + Hash + Key stretching)</i>
-      <br><i>Token based Authentication (secured session and cookies, safe user registration and authorization)</i>
-      <br><i>OAuth Authorization Protocol</i>
-      <br><i>Distributed web security (Signed client apps, preventing XSS/CSRF)</i>
+      <br>Developed a secured service that allows authorized users to generate and share shortened URLs. Registered users can create a shortened URL that is secure and shareable among users with appropriate permissions. The service was built in Ruby (Sinatra) using Slim and Bootstrap for the client application. We used heroku and postgres to host our services. We made use of Rbnacl cryptographic libraries for implementing security features <a href = "https://github.com/cryptosphere/rbnacl">https://github.com/cryptosphere/rbnacl</a>
+      <br><br><b><i>Gained experience in developing a secured distributed architecture which included:</i></b>
+
+      <br>Securing databases through SQL injection, mass assignment restrictions, ORM based encryption
+      <br>User Authentication
+      <br>Password hashing (Salt + Hash + Key stretching)
+      <br>Token based Authentication (secured session and cookies, safe user registration and authorization)
+      <br>Token based Authorization (Signed client apps (JWK), secure API requests)
+      <br>OAuth Authorization Protocol
+      <br>Preventing XSS/CSRF attacks, protecting HTTP headers
+      <br>API and interface testing
+      <br>Defining access control
+      <br>Enforce SSL/TLS
 
 
       <br><br><i>Developed by Wisebits Team
@@ -77,7 +80,7 @@ This application was an existing PHP application built using the Codeigniter fra
       <span class="underline"><b>Service Oriented Architecture (2015)</b> </span>
       <br><b><a href = "https://github.com/ZhongMeiZhou">TraViz</a></b> 
       <br>We developed TraViz Web Application and Data API service. TraViz allows users to generate visualizations of lonely planet tour listings based on specified countries, categories and price range.
-      Developed experience in continuos integration
+     
       <br><br><i>Developed by ZhongMeiZhou 中美洲 Team
       <br>National Tsing Hua University (Hsinchu, Taiwan) </i>
       </li>
@@ -85,7 +88,8 @@ This application was an existing PHP application built using the Codeigniter fra
       <li class="list-group-item">
       <span class="underline"><b>Advanced Database (2015)</b> </span>
       <br><b><a href = "https://github.com/rjollet/NeverAloneNTHU">Never Alone Dating Service</a></b> 
-      <br>We developed a dating service that allows users to spark interests and connect. We used Django Framework and Neo4J Graph Database.
+      <br>We developed a dating service that recommends potential matches to users. We used Django Framework and Neo4J Graph Database. We wrote recommendation algorithms and made use of concepts such as Jaccard Similarity in order to recommend matches based on similar interests.
+
       <br><br><i>Developed by Never Alone Team
       <br>National Tsing Hua University (Hsinchu, Taiwan) </i>
       </li>
