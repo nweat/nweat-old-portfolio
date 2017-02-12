@@ -2,8 +2,7 @@
 sitemap: false
 excerpt: "Nicole Weatherburne Projects"
 permalink: /projects.html
-tags: [portfolio, projects, work, past time projects]
-date: 2016-07-29
+date: 2017-02-13
 ---
 
 <h1>Major Work Projects</h1>
@@ -54,6 +53,7 @@ This application was an existing PHP application built using the Codeigniter fra
 <div class="panel panel-primary">
       <ul class="list-group">
 
+
       <li class="list-group-item">
       <span class="underline"><b>Service Security (2016)</b> </span>
       <br><b><a href = "https://github.com/wisebits">Wisebits URL Shortner</a></b> 
@@ -71,7 +71,6 @@ This application was an existing PHP application built using the Codeigniter fra
       <br>- Defining access control
       <br>- Enforce SSL/TLS
 
-
       <br><br><i>Developed by Wisebits Team
       <br>National Tsing Hua University (Hsinchu, Taiwan) </i>
 
@@ -79,9 +78,25 @@ This application was an existing PHP application built using the Codeigniter fra
       <a href="images/ss.png"><img src="images/ss.png"></a>
       <figcaption>URL Shortner Service Architecture</figcaption>
       </figure>
-
-      
       </li>
+
+
+      <li class="list-group-item">
+      <span class="underline"><b>Data Mining (2016)</b></span>
+      <br><b><a href = "https://github.com/Hopenglish-Miners">Hopenglish Miners</a></b> 
+      <br>The dataset was provided by an e-learning company based in Taiwan. Their online e-learning platform provides different alternatives to efficiently learn the English language through the use of multimedia content, such as video clips and audio recordings. The dataset consisted of video details and student behaviours which show how students interacted with videos. We were asked to discover some interesting insights that we can provide to the company to better understand their clients and improve their service. After gaining extensive insights into the data, we found a pattern in the student behaviour which could eventually lead to students quitting the service. We performed a classification using a decision tree to perform a prediction in an effort to identify when students lose interest. Our argument is that if we can identify when students lose interest, the company can recommend better videos that could keep the users engaged and reduce student dropout. We developed a web application to demonstrate the real world application of our proposal.
+
+      <br><br><b><i>Gained experience in several data mining processes which included:</i></b>
+
+      <br>- Data Exploration/Visualization (Pandas, Jupyter, K-means clustering algorithm, Plotly)
+      <br>- Data pre-processing (Feature selection/creation to address curse of dimensionality problems - clustering algorithms)
+      <br>- Data mining algorithm (Supervised algorithm to perform classification: C4.5 Decision Tree - 70% training/30% testing)
+      <br>- Data mining evaluation (10 Fold Cross Validation with 64% accuracy)
+
+      <br><br><i>Prepared by Hopenglish Miners
+      <br>National Tsing Hua University (Hsinchu, Taiwan) </i>
+      </li>
+
 
       <li class="list-group-item">
       <span class="underline"><b>Service Oriented Architecture (2015)</b> </span>
