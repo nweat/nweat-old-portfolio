@@ -18,8 +18,9 @@ SPAGS Information System (Environmental Research Institute)
 
 This application was designed to allow for easy management of data (CRUD), perform data analysis and provide insightful visualizations to registered users who are primarily marine biologists/researchers working for non-governmental organizations in Belize. The application backend was built in PHP and front end was primarily custom HTML and CSS code.
 
-### Major Features:
+### Major Features/Tasks:
 - Since many data records needed to be entered at a time, users were given the option to conveniently upload multiple data entry records from custom excel templates
+- Designed and implemented database structure
 - Developed complex SQL queries for generation of analysis reports
 - Implemented SQL injection techniques
 - HighCharts charting library was primarily used for generating dynamic visualizations of analysis results
@@ -41,10 +42,10 @@ Coral Bleaching Information System (Environmental Research Institute)
 
 This application was an existing PHP application built using the Codeigniter framework. I had to understand and modify existing code to enhance this application which involved:
 
-- Designing an improved user friendly data entry interface where users upload data from custom excel templates. The previous data entry interface was very slow and required download of a `jar` file everytime there were updates.
-- Generating reports as PDF files
-- Development of an interactive map displaying coral bleaching summary results (Google Maps, PHP, XML, MySQL, AJAX)
-- Developing a user guide and organizing training sessions
+- Designing an improved user friendly data entry interface where users upload data from custom excel templates. The previous data entry interface was written in JAVA and required download of a `jar` file everytime there were updates.
+- Used FPDF PDF generator library to allow users to save reports as PDF files
+- Spatial visualization of analysis results
+
 
 <p><br><p>
 
