@@ -66,7 +66,7 @@ date: 2017-02-13
       <b> Database Administrator (August 2011 to August 2015)</b>
       <br><i> Environmental Research Institute - Belmopan, Belize</i>
       <ul>
-      <li>Developed and maintained national database driven applications primarily for data management, analysis and reporting using open source technologies (See online portfolio for details)</li>
+      <li>Developed and maintained national database driven applications primarily for data management, analysis and reporting using open source technologies </li>
       <li>MySQL and Apache Server administration and maintenance</li>
       <li>Developed and adhered to database backup and recovery procedures</li>
       <li>Ubuntu Linux server administration and maintenance</li>
@@ -77,7 +77,7 @@ date: 2017-02-13
       <li>Identifying and recommending hardware and software solutions</li>
       <li>Regularly updated research databases with scientific data and reports</li>
       <li>Generated ad-hoc reports</li>
-      <li>Maintained a publications repository for housing of Natural Resource Management publications focused in Belize (http://eprints.uberibz.org/)</li>
+      <li>Maintained a publications repository for housing of Natural Resource Management publications focused in Belize (<a href = "http://eprints.uberibz.org/">http://eprints.uberibz.org/</a>)</li>
       <li>Supervised IT student assistants</li>
 
 
