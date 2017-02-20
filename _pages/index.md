@@ -35,7 +35,7 @@ date: 2017-02-13
       <span class="underline">2011</span>
       <br><b>Bachelor of Science in Information Technology</b>
       <br><i>University of Belize (Belmopan, Belize)</i>
-      <br><i>Cum Laude honours, 3.52</i>
+      <br><i>Cum Laude Honours</i>
       </li>
 
       </ul>
@@ -54,9 +54,6 @@ date: 2017-02-13
       <span>The Secret</span>
       <br>2006. Rhonda Byrne
       </li>
-
-     
-
       </ul>
 </div>
 
@@ -69,13 +66,20 @@ date: 2017-02-13
       <b> Database Administrator (August 2011 to August 2015)</b>
       <br><i> Environmental Research Institute - Belmopan, Belize</i>
       <ul>
-      <li>Developed national database driven applications primarily for data management, analysis and reporting using open source tools</li>
-      <li>Developed user manuals</li>
-      <li>Organized and led application testing and training sessions </li>
-      <li>Researched, identified and integrated ideal tools for enhanced application usability and functionality</li>
-      <li>Database and Server administration and maintenance</li>
-      <li>Maintained a publications repository for housing of Natural Resource Management publications focused in Belize</li>
+      <li>Developed and maintained national database driven applications primarily for data management, analysis and reporting using open source technologies (See online portfolio for details)</li>
+      <li>MySQL and Apache Server administration and maintenance</li>
+      <li>Developed and adhered to database backup and recovery procedures</li>
+      <li>Ubuntu Linux server administration and maintenance</li>
+      <li>Troubleshooting and resolving database/application/server issues</li>
+      <li>Provided IT support to staff on site</li>
+      <li>Developed application user manuals and organized application training sessions</li>
+      <li>Identifying and integrating ideal tools for enhanced application usability and functionality</li>
+      <li>Identifying and recommending hardware and software solutions</li>
+      <li>Regularly updated research databases with scientific data and reports</li>
+      <li>Generated ad-hoc reports</li>
+      <li>Maintained a publications repository for housing of Natural Resource Management publications focused in Belize (http://eprints.uberibz.org/)</li>
       <li>Supervised IT student assistants</li>
+
 
       </ul>
       </li>
