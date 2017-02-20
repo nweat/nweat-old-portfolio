@@ -76,7 +76,7 @@ date: 2017-02-13
       <li>Identifying and integrating ideal tools for enhanced application usability and functionality</li>
       <li>Identifying and recommending hardware and software solutions</li>
       <li>Regularly updated research databases with scientific data and reports</li>
-      <li>Generated ad-hoc reports</li>
+      <li>Generated timely ad-hoc reports for company directors</li>
       <li>Maintained a publications repository for housing of Natural Resource Management publications focused in Belize (<a href = "http://eprints.uberibz.org/">http://eprints.uberibz.org/</a>)</li>
       <li>Supervised IT student assistants</li>
 

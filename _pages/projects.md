@@ -13,20 +13,19 @@ SPAGS Information System (Environmental Research Institute)
 <figure class="half">
 	<a href="images/SPAGS_1.jpg"><img src="images/SPAGS_1.jpg"></a>
 	<a href="images/SPAGS_2.jpg"><img src="images/SPAGS_2.jpg"></a>
-	<figcaption>The SPAGS online information system was designed for the purpose of improving monitoring and conservation efforts of the Nassau Grouper specie in Belize.</figcaption>
+	<figcaption>The SPAGS online information system was designed for the purpose of improving monitoring and conservation efforts of the Nassau Grouper fish specie in Belize.</figcaption>
 </figure>
 
-### Major Features:
+This application was designed to allow for easy management of data (CRUD), perform data analysis and provide insightful visualizations to registered users who are primarily marine biologists/researchers working for non-governmental organizations in Belize. The application backend was built in PHP and front end was primarily custom HTML and CSS code.
 
-- Uploading data from custom excel templates provided to users
-- Displaying dynamic graphs of analysis results using HighCharts interactive graphing tool
-- Displaying dynamic summary analysis results (Google Maps, PHP, XML, MySQL, AJAX)
-- AJAX and JQuery for enhanced user experience
-- Use of licensed software PHP Report Maker to generate reports
-- Generating SQL queries for analysis, manipulation and accessing data
-- Implementing SQL injection techniques
-- Defining user access levels
-- Developing a user guide and organizing training sessions
+### Major Features:
+- Since many data records needed to be entered at a time, users were given the option to conveniently upload multiple data entry records from custom excel templates
+- Developed complex SQL queries for generation of analysis reports
+- Implemented SQL injection techniques
+- HighCharts charting library was primarily used for generating dynamic visualizations of analysis results
+- Spatial visualization of analysis results was developed using Google Maps, PHP, MySQL, AJAX, XML
+- AJAX and JQuery was used for enhanced user experience (DataTables, jQuery datepicker)
+- User authentication and user access levels were implemented
 
 
 
