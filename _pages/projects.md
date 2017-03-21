@@ -149,15 +149,21 @@ This application was an existing PHP application built using the Codeigniter fra
       <ul class="list-group">
       
       <li class="list-group-item">
-   
       <br><b><a href = "https://nikki-resource-stop.herokuapp.com/">Nikki's Resource Stop (2015) </a></b> 
       <br> Developed an application to manage popular online IT resources I have found useful. I used a popular Javascript framework called the MEAN stack (Mongo, Express, Angular, NodeJS). I used additional modules including Mongoose and Passport for google authentication and database modeling.
+      </li>
+      
+      <li class="list-group-item">
+      <br><b>Simply Chat (2015)</b> 
+      <br> Developed a simple real-time chat application using the Meteor Javascript Framework. 
+      <br> <a href = "https://github.com/nweat/simply-chat"> Github </a>
+      <br> <a href = "https://meteor-simple-chat.herokuapp.com/"> Heroku </a>
       </li>
 
       <li class="list-group-item">
       <br><b><a href = "http://c-armsinc.com/">C-ARMS Inc. (2014)</a></b> 
       <br> Developed a static information based website using Joomla CMS.
       </li>
-
+      
       </ul>
 </div>
