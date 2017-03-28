@@ -149,20 +149,29 @@ This application was an existing PHP application built using the Codeigniter fra
       <ul class="list-group">
       
       <li class="list-group-item">
-      <br><b><a href = "https://nikki-resource-stop.herokuapp.com/">Nikki's Resource Stop (2015) </a></b> 
-      <br> Developed an application to manage popular online IT resources I have found useful. I used a popular Javascript framework called the MEAN stack (Mongo, Express, Angular, NodeJS). I used additional modules including Mongoose and Passport for google authentication and database modeling.
+      <br><b>Sample Angular and Bootstrap (2017)</b> 
+      <br> Using Angular and Bootstrap to design a file uploader with progress bar
+      <br> <a href = "https://github.com/nweat/angular-bootstrap-upload-with-progress-bar"> Github </a>
+      <br> <a href = "http://sample-angular-bootstrap.herokuapp.com/#/"> Heroku </a>
+      </li>
+      
+      <li class="list-group-item">
+      <br><b>Nikki's Resource Stop (2016)</b> 
+      <br> Developed a CRUD application that can be used as a starter app. I used a popular Javascript framework called the MEAN stack (Mongo, Express, Angular, NodeJS). I used additional modules including Mongoose and Passport for google authentication and database modeling.
+      <br><a href = "https://nikki-resource-stop.herokuapp.com/">Heroku</a>
       </li>
       
       <li class="list-group-item">
       <br><b>Simply Chat (2015)</b> 
-      <br> Developed a simple real-time chat application using the Meteor Javascript Framework. 
+      <br> Developed a simple real-time chat application using the Meteor Real Time Javascript Framework. 
       <br> <a href = "https://github.com/nweat/simply-chat"> Github </a>
       <br> <a href = "https://meteor-simple-chat.herokuapp.com/"> Heroku </a>
       </li>
-
+      
       <li class="list-group-item">
-      <br><b><a href = "http://c-armsinc.com/">C-ARMS Inc. (2014)</a></b> 
+      <br><b>C-ARMS Inc. (2014)</b> 
       <br> Developed a static information based website using Joomla CMS.
+      <br> <a href = "http://c-armsinc.com/">Website</a>
       </li>
       
       </ul>
