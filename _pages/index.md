@@ -10,13 +10,11 @@ date: 2017-02-13
 <!--<div class="alert alert-success" role="alert">
 	Dedicated, versatile teacher and Information Technology (IT) professional currently pursuing a Master’s degree in Information Systems and Applications at the National Tsing Hua University. Contact me for résumé or for a chat.:smile:
 </div>-->
-<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 
-<div class="alert alert-info" role="alert">
 <a href="downloads/Nicole_Weatherburne_Resume_IT.pdf" class="btn btn-info" role="button">
 Resume PDF
 </a>
-</div>
+
 
 <div class="panel panel-primary">
       <div class="panel-heading">Education</div>
