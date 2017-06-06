@@ -12,7 +12,7 @@ date: 2017-02-13
 </div>-->
 
 
-<a href="_data/Nicole_Weatherburne_Resume_IT.pdf" class="btn btn-primary btn-lg btn-block" role="button">
+<a href="images/Nicole_Weatherburne_Resume_IT.pdf" class="btn btn-primary btn-lg" role="button">
 <span class="glyphicon glyphicon-download"></span> Resume PDF</a>
 
 <div class="panel panel-primary">
