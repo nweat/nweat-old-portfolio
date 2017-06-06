@@ -15,6 +15,7 @@ date: 2017-02-13
 <a href="downloads/Nicole_Weatherburne_Resume_IT.pdf" class="btn btn-info" role="button">
 Resume PDF
 </a>
+<button type="button" class="btn btn-primary">Primary</button>
 </div>
 
 <div class="panel panel-primary">
