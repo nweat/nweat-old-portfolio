@@ -12,7 +12,7 @@ date: 2017-02-13
 </div>-->
 
 <a href="downloads/Nicole_Weatherburne_Resume_IT.pdf" class="btn btn-info" role="button">
-Resume PDF
+Download Resume
 </a>
 
 
