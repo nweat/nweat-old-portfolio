@@ -23,8 +23,8 @@ Download Resume
       <li class="list-group-item">
       <span class="underline">Sep. 2015 - July 2017</span>
       <br><b>Master of Science </b>
-      <br><b>Institute of Information Systems and Applications</b>
-      <br><b>Master's Thesis Topic: </b>
+      <br><i>Institute of Information Systems and Applications</i>
+      <br><i>Master's Thesis Topic: </i>
       <br>A Method for Exploring Bipolar Disorder Behaviours on Twitter
       <br><br><i>National Tsing Hua University (Hsinchu, Taiwan) </i>
       </li>
