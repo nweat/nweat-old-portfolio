@@ -48,7 +48,7 @@ Download Resume
 </div>
 
 <div class="panel panel-primary">
-      <div class="panel-heading">Inspirational Books</div>
+      <div class="panel-heading">Useful Books</div>
       <ul class="list-group">
 
       <li class="list-group-item">
@@ -60,6 +60,12 @@ Download Resume
       <span>The Secret</span>
       <br>2006. Rhonda Byrne
       </li>
+
+      <li>
+      <span>The Twelve Factor App</span>
+      <span>https://12factor.net/</span>
+      </li>
+
       </ul>
 </div>
 
