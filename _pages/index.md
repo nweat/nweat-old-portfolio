@@ -63,7 +63,7 @@ Download Resume
 
       <li class="list-group-item">
       <span>The Twelve Factor App</span><br>
-      <span>https://12factor.net/</span>
+      <span><a href = "https://12factor.net/">https://12factor.net/</a></span>
       </li>
 
       </ul>
@@ -73,6 +73,14 @@ Download Resume
 <div class="panel panel-primary">
       <div class="panel-heading">Work Experience</div>
       <ul class="list-group">
+
+      <li class="list-group-item">
+      <b> Associate IT Sofware Engineer (September 2017 - Ongoing)</b>
+      <br><i> Dialog Semiconductor - Hsinchu, Taiwan </i>
+      <ul>
+      <li> Reponsible for supporting and developing primarily web based applications  </li>
+      </ul>
+      </li>
 
       <li class="list-group-item">
       <b> Database Administrator (August 2011 to August 2015)</b>
@@ -91,8 +99,6 @@ Download Resume
       <li>Generated timely ad-hoc reports for company directors</li>
       <li>Maintained a publications repository for housing of Natural Resource Management publications focused in Belize (<a href = "http://eprints.uberibz.org/">http://eprints.uberibz.org/</a>)</li>
       <li>Supervised IT student assistants</li>
-
-
       </ul>
       </li>
 
