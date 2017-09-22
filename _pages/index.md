@@ -61,8 +61,8 @@ Download Resume
       <br>2006. Rhonda Byrne
       </li>
 
-      <li>
-      <span>The Twelve Factor App</span>
+      <li class="list-group-item">
+      <span>The Twelve Factor App</span><br>
       <span>https://12factor.net/</span>
       </li>
 
