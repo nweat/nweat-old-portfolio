@@ -75,11 +75,11 @@ Download Resume
       <ul class="list-group">
 
       <li class="list-group-item">
-      <b> Associate IT Sofware Engineer (September 2017 - Ongoing)</b>
-      <br><i> Dialog Semiconductor - Hsinchu, Taiwan </i>
+      <b> Software Engineer (September 2017 - Ongoing)</b>
+      <br><i> Dialog Semiconductor - Taiwan </i>
       <ul>
       <li> Responsible for supporting and developing web based applications and scripts primarily in Java and Python </li>
-      <li> Involved in introducing new technologies such as background async services to improve user experience of current legacy system  </li>
+      <li> Involved in introducing new technologies such as background asynchronous services and RESTful APIs to improve user experience of current legacy system  </li>
       <li> Involved in the introduction of Jenkins as a means for automating test and deployment phases </li>
       <li> Experiment with Docker as a means for spinning up development environments </li>
       <li> Developing applications around existing legacy systems using Spring Boot and React/Angular </li>
@@ -90,7 +90,7 @@ Download Resume
 
       <li class="list-group-item">
       <b> Database Administrator (August 2011 to August 2015)</b>
-      <br><i> Environmental Research Institute - Belmopan, Belize</i>
+      <br><i> Environmental Research Institute - Belize</i>
       <ul>
       <li>Developed and maintained national database driven applications primarily for data management, analysis and reporting using open source technologies </li>
       <li>MySQL and Apache Server administration and maintenance</li>
@@ -110,7 +110,7 @@ Download Resume
 
       <li class="list-group-item">
       <b> IT Programmer - Bachelor’s Internship (February to May 2011)</b>
-      <br><i> Ministry of Natural Resources MNRE - Belmopan, Belize</i>
+      <br><i> Ministry of Natural Resources -  Belize</i>
       <ul>
       <li>Successfully developed two database driven desktop applications for the Physical Planning Section of the MNRE in the Visual Studio 2010 .NET Environment.</li>
       <li>Developed applications in C#</li>
