@@ -2,7 +2,7 @@
 sitemap: false
 excerpt: "About Nicole Weatherburne"
 permalink: /index.html
-date: 2017-02-13
+date: 2018-11-11
 ---
 <!--<link rel="stylesheet" href="assets/css/boostrap.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
@@ -78,7 +78,13 @@ Download Resume
       <b> Associate IT Sofware Engineer (September 2017 - Ongoing)</b>
       <br><i> Dialog Semiconductor - Hsinchu, Taiwan </i>
       <ul>
-      <li> Reponsible for supporting and developing primarily web based applications  </li>
+      <li> Responsible for supporting and developing web based applications and scripts primarily in Java and Python </li>
+      <li> Involved in introducing new technologies such as background async services to improve user experience of current legacy system  </li>
+      <li> Involved in the introduction of Jenkins as a means for automating test and deployment phases </li>
+      <li> Experiment with Docker as a means for spinning up development environments </li>
+      <li> Developing applications around existing legacy systems using Spring Boot and React/Angular </li>
+      <li> Used Celery and Redis to build up an automated system for processing external files </li>
+      <li> Currently exploring ways to best implement centralized logging to allow for more robust log searching capabilities </li>
       </ul>
       </li>
 
