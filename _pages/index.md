@@ -83,7 +83,7 @@ Download Resume
       <li> Involved in the introduction of Jenkins as a means for automating test and deployment </li>
       <li> Experiment with Docker as a means for spinning up development environments </li>
       <li> Developing applications around existing legacy systems using Spring Boot and React/Angular </li>
-      <li> Developed a system to automate manual work being done by users. The system performs periodic processing of special configuration files. Flask was my framework of choice, Celery worker to asynchronously process tasks, Redis was used as the message broker and Flower to monitor celery tasks. Thanks to this blog (http://allynh.com/blog/flask-asynchronous-background-tasks-with-celery-and-redis/) for getting me started!  </li>
+      <li> Developed a system to automate manual work being done by users. The system performs periodic processing of special configuration files. Flask was my framework of choice, Celery worker to asynchronously process tasks, Redis was used as the message broker and Flower to monitor celery tasks. Thanks to this blog (<a href = "http://allynh.com/blog/flask-asynchronous-background-tasks-with-celery-and-redis/">Flask asynchronous background tasks with Celery and Redis</a>) for getting me started! </li>
       <li> Currently exploring ways to best implement centralized logging to allow for more robust log searching capabilities </li>
       </ul>
       </li>
