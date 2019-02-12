@@ -56,7 +56,7 @@ This application was an existing PHP application built using the Codeigniter fra
 
       <li class="list-group-item">
       <span class="underline"><b>Data Mining (2016)</b></span>
-      <br><b><a href = "https://github.com/Hopenglish-Miners">Hopenglish Miners</a></b> 
+      <br><b><a href = "https://github.com/Hopenglish-Miners">Hopenglish Miners</a></b>
       <br>The dataset was provided by an e-learning company based in Taiwan. Their online e-learning platform provides different alternatives to efficiently learn the English language through the use of multimedia content, such as video clips and audio recordings. The dataset consisted of video details and student behaviours which show how students interacted with videos. We were asked to discover some interesting insights that we can provide to the company to better understand their clients and improve their service. After gaining extensive insights into the data, we found a pattern in the student behaviour which could eventually lead to students quitting the service. We performed a classification using a decision tree to perform a prediction in an effort to identify when students lose interest. Our argument is that if we can identify when students lose interest, the company can recommend better videos that could keep the users engaged and reduce student dropout. We developed a web application to demonstrate the real world application of our proposal.
 
       <br><br><b><i>Gained experience in several data mining processes which included:</i></b>
@@ -73,7 +73,7 @@ This application was an existing PHP application built using the Codeigniter fra
 
       <li class="list-group-item">
       <span class="underline"><b>Service Security (2016)</b> </span>
-      <br><b><a href = "https://github.com/wisebits">Wisebits URL Shortner</a></b> 
+      <br><b><a href = "https://github.com/wisebits">Wisebits URL Shortner</a></b>
       <br>Developed a secured service that allows authorized users to generate and share shortened URLs. Registered users can create a shortened URL that is secure and shareable among users with appropriate permissions. The service was built in Ruby (Sinatra) using Slim and Bootstrap for the client application. We used heroku and postgres to host our services and databases. We made use of Rbnacl cryptographic libraries for implementing security features: <a href = "https://github.com/cryptosphere/rbnacl">https://github.com/cryptosphere/rbnacl</a>
       <br><br><b><i>Gained experience in developing a secured distributed architecture which included:</i></b>
 
@@ -98,12 +98,12 @@ This application was an existing PHP application built using the Codeigniter fra
       </li>
 
 
-      
+
 
 
       <li class="list-group-item">
       <span class="underline"><b>Service Oriented Architecture (2015)</b> </span>
-      <br><b><a href = "https://github.com/ZhongMeiZhou">TraViz</a></b> 
+      <br><b><a href = "https://github.com/ZhongMeiZhou">TraViz</a></b>
       <br>We developed TraViz Web Application and Data API service. TraViz allows users to generate visualizations of lonely planet tour listings based on specified countries, categories and price range. The service was built in Ruby (Sinatra) using Slim and Bootstrap for the client application.
 
       <br><br><b><i>Gained experience in developing a service following a modern service oriented architecture design:</i></b>
@@ -131,7 +131,7 @@ This application was an existing PHP application built using the Codeigniter fra
 
       <li class="list-group-item">
       <span class="underline"><b>Advanced Database (2015)</b> </span>
-      <br><b><a href = "https://github.com/rjollet/NeverAloneNTHU">Never Alone Dating Service</a></b> 
+      <br><b><a href = "https://github.com/rjollet/NeverAloneNTHU">Never Alone Dating Service</a></b>
       <br>We developed a dating service that recommends potential matches to users. We used Django Framework and Neo4J Graph Database. We wrote recommendation algorithms and made use of concepts such as Jaccard Similarity in order to recommend matches based on similar interests.
 
       <br><br><i>Developed by Never Alone Team
@@ -147,32 +147,33 @@ This application was an existing PHP application built using the Codeigniter fra
 <h1>Passtime/Freelance Projects</h1>
 <div class="panel panel-primary">
       <ul class="list-group">
-      
+
       <li class="list-group-item">
-      <br><b>Sample Angular and Bootstrap (2017)</b> 
+      <br><b>Sample Angular and Bootstrap (2017)</b>
       <br> Using Angular and Bootstrap to design a file uploader with progress bar
       <br> <a href = "https://github.com/nweat/angular-bootstrap-upload-with-progress-bar"> Github </a>
       <br> <a href = "http://sample-angular-bootstrap.herokuapp.com/#/"> Heroku </a>
       </li>
-      
+
       <li class="list-group-item">
-      <br><b>Nikki's Resource Stop (2016)</b> 
+      <br><b>Resource Stop (2016)</b>
       <br> Developed a CRUD application that can be used as a starter app. I used a popular Javascript framework called the MEAN stack (Mongo, Express, Angular, NodeJS). I used additional modules including Mongoose and Passport for google authentication and database modeling.
+			<br> <a href = https://github.com/nweat/resource-stop"> Github </a>
       <br><a href = "https://nikki-resource-stop.herokuapp.com/">Heroku</a>
       </li>
-      
+
       <li class="list-group-item">
-      <br><b>Simply Chat (2015)</b> 
-      <br> Developed a simple real-time chat application using the Meteor Real Time Javascript Framework. 
+      <br><b>Simply Chat (2015)</b>
+      <br> Developed a simple real-time chat application using the Meteor Real Time Javascript Framework.
       <br> <a href = "https://github.com/nweat/simply-chat"> Github </a>
       <br> <a href = "https://meteor-simple-chat.herokuapp.com/"> Heroku </a>
       </li>
-      
+
       <li class="list-group-item">
-      <br><b>C-ARMS Inc. (2014)</b> 
+      <br><b>C-ARMS Inc. (2014)</b>
       <br> Developed a static information based website using Joomla CMS.
       <br> <a href = "http://c-armsinc.com/">Website</a>
       </li>
-      
+
       </ul>
 </div>
