@@ -158,7 +158,7 @@ This application was an existing PHP application built using the Codeigniter fra
       <li class="list-group-item">
       <br><b>Resource Stop (2016)</b>
       <br> Developed a CRUD application that can be used as a starter app. I used a popular Javascript framework called the MEAN stack (Mongo, Express, Angular, NodeJS). I used additional modules including Mongoose and Passport for google authentication and database modeling.
-			<br> <a href = https://github.com/nweat/resource-stop"> Github </a>
+			<br><a href = "https://github.com/nweat/resource-stop"> Github </a>
       <br><a href = "https://nikki-resource-stop.herokuapp.com/">Heroku</a>
       </li>
 
