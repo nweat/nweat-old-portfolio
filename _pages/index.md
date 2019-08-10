@@ -28,7 +28,7 @@ date: 2019-08-10
 
       <li class="list-group-item">
       <span class="underline">Certificates</span>
-      PHP II: Higher Structures Certificate, Zend Technologies Inc., February 2015
+      <br>PHP II: Higher Structures Certificate, Zend Technologies Inc., February 2015
       <br>Going Places with Spatial Analysis Certificate, Udemy, December 2014
       </li>
 
