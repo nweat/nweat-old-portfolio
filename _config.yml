@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nicole Weatherburne 妮可"
+title                    : "Nicole Weatherburne"
 title_separator          : "-"
-name                     : "Nicole Weatherburne 妮可"
+name                     : "Nicole Weatherburne"
 description              : "Nicole Weatherburne Website"
 url                      : "https://nweat.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -63,10 +63,10 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : 
+  name             :
   avatar           : "Avatar.png"
-  bio              : "Developer, researcher, teacher, travel enthusiast"  
-  location         : "Taiwan"
+  bio              : "Developer, researcher, teacher, travel enthusiast"
+  location         :
   email            : "nikkiweat@gmail.com"
   uri              :
   bitbucket        :
@@ -80,7 +80,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "nicoleweatherburne"
+  linkedin         : "nweat"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -91,7 +91,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  publickey        : "test"
+  publickey        :
 
 
 # Reading Files
