@@ -41,6 +41,14 @@ date: 2019-08-10
       <ul class="list-group">
 
       <li class="list-group-item">
+      <b> Freelance Content Developer (2018)</b>
+      <br><i> ALPHACamp </i>  
+      <ul>      
+      <li>Assist in writing course modules for an online e-learning platform focused on delivering courses related to web development</li>
+      </ul>
+      </li>
+
+      <li class="list-group-item">
       <b> Software Engineer (September 2017-)</b>
       <br><i> Dialog Semiconductor </i>
       <ul>
