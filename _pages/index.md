@@ -14,7 +14,9 @@ date: 2019-08-10
 
       <li class="list-group-item">
       <span class="underline">Personal development</span>
-      <br><b> <a href = "https://www.freecodecamp.com/nweat">FreeCodeCamp</a></b>
+      <br<b> <a href = "https://www.freecodecamp.com/nweat">FreeCodeCamp</a></b
+      <br><b> <a href = "https://www.udemy.com/user/nicole493/">Udemy</a></b
+      <br><b> <a href = "https://www.hackerrank.com/nikkiweat">Hackerrank</a></b>
       </li>
 
       <li class="list-group-item">
@@ -25,8 +27,9 @@ date: 2019-08-10
       </li>
 
       <li class="list-group-item">
-      <br><i>PHP II: Higher Structures Certificate, Zend Technologies Inc., February 2015</i>
-      <br><i>Going Places with Spatial Analysis Certificate, Udemy, December 2014</i>
+      <span class="underline">Certificates</span>
+      PHP II: Higher Structures Certificate, Zend Technologies Inc., February 2015
+      <br>Going Places with Spatial Analysis Certificate, Udemy, December 2014
       </li>
 
       <li class="list-group-item">
