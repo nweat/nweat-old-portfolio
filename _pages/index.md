@@ -13,6 +13,11 @@ date: 2019-08-10
       <ul class="list-group">
 
       <li class="list-group-item">
+      <span class="underline">Personal development</span>
+      <br><b> <a href = "https://www.freecodecamp.com/nweat">FreeCodeCamp</a></b>
+      </li>
+
+      <li class="list-group-item">
       <span class="underline">2015 - 2017</span>
       <br><b>Master in Information Systems and Applications </b>
       <br><i>National Tsing Hua University </i>
@@ -20,8 +25,6 @@ date: 2019-08-10
       </li>
 
       <li class="list-group-item">
-      <span class="underline">2012 - 2015</span>
-      <br><b> <a href = "https://www.freecodecamp.com/nweat">FreeCodeCamp</a></b>
       <br><i>PHP II: Higher Structures Certificate, Zend Technologies Inc., February 2015</i>
       <br><i>Going Places with Spatial Analysis Certificate, Udemy, December 2014</i>
       </li>
