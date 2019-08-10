@@ -2,7 +2,7 @@
 sitemap: false
 excerpt: "About Nicole Weatherburne"
 permalink: /index.html
-date: 2019-10-08
+date: 2019-08-10
 ---
 <!--<link rel="stylesheet" href="assets/css/boostrap.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
@@ -13,19 +13,17 @@ date: 2019-10-08
       <ul class="list-group">
 
       <li class="list-group-item">
-      <span class="underline">Sep. 2015 - July 2017</span>
-      <br><b>Master of Science </b>
-      <br><i>Institute of Information Systems and Applications</i>
-      <br>Master's Thesis Topic:
-      <br>A Method for Exploring Bipolar Disorder Behaviours on Twitter
-      <br><br><i>National Tsing Hua University (Taiwan) </i>
+      <span class="underline">2015 - 2017</span>
+      <br><b>Master in Information Systems and Applications </b>
+      <br><i>National Tsing Hua University </i>
+      <br>Thesis Topic: A Method for Exploring Bipolar Disorder Behaviors on Twitter
       </li>
 
       <li class="list-group-item">
       <span class="underline">2012 - 2015</span>
       <br><b> <a href = "https://www.freecodecamp.com/nweat">FreeCodeCamp</a></b>
-      <br><i>PHP II: Higher Structures, Zend Technologies Inc., February 2015</i>
-      <br><i>Going Places with Spatial Analysis, Udemy, December 2014</i>
+      <br><i>PHP II: Higher Structures Certificate, Zend Technologies Inc., February 2015</i>
+      <br><i>Going Places with Spatial Analysis Certificate, Udemy, December 2014</i>
       </li>
 
       <li class="list-group-item">
