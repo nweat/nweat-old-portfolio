@@ -14,7 +14,7 @@ date: 2019-08-10
 
       <li class="list-group-item">
       <span class="underline">Personal development</span>
-      <br<b> <a href = "https://www.freecodecamp.com/nweat">FreeCodeCamp</a></b
+      <br><b> <a href = "https://www.freecodecamp.com/nweat">FreeCodeCamp</a></b
       <br><b> <a href = "https://www.udemy.com/user/nicole493/">Udemy</a></b
       <br><b> <a href = "https://www.hackerrank.com/nikkiweat">Hackerrank</a></b>
       </li>
