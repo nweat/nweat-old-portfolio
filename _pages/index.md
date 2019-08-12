@@ -13,17 +13,15 @@ date: 2019-08-10
       <ul class="list-group">
 
       <li class="list-group-item">
-      <span class="underline">Personal development</span>
-      <br><b> <a href = "https://www.freecodecamp.com/nweat">FreeCodeCamp</a></b>
-      <br><b> <a href = "https://www.udemy.com/user/nicole493/">Udemy</a></b>
-      <br><b> <a href = "https://www.hackerrank.com/nikkiweat">Hackerrank</a></b>
-      </li>
-
-      <li class="list-group-item">
-      <span class="underline">2015 - 2017</span>
-      <br><b>Master in Information Systems and Applications </b>
+      <b>Master in Information Systems and Applications </b>
       <br><i>National Tsing Hua University </i>
+      <br><span>2015-2017</span>
       <br>Thesis Topic: A Method for Exploring Bipolar Disorder Behaviors on Twitter
+      <br><br>
+      <br><b>Bachelor of Science in Information Technology</b>
+      <br><i>University of Belize </i>
+      <br><span>2008-2011</span>
+      <br><i>Cum Laude Honours</i>
       </li>
 
       <li class="list-group-item">
@@ -33,11 +31,12 @@ date: 2019-08-10
       </li>
 
       <li class="list-group-item">
-      <span class="underline">2011</span>
-      <br><b>Bachelor of Science in Information Technology</b>
-      <br><i>University of Belize </i>
-      <br><i>Cum Laude Honours</i>
+      <span class="underline">Personal development</span>
+      <br><b> <a href = "https://www.freecodecamp.com/nweat">FreeCodeCamp</a></b>
+      <br><b> <a href = "https://www.udemy.com/user/nicole493/">Udemy</a></b>
+      <br><b> <a href = "https://www.hackerrank.com/nikkiweat">Hackerrank</a></b>
       </li>
+
 
       </ul>
 </div>
@@ -92,6 +91,41 @@ date: 2019-08-10
 
       </ul>
 </div>
+
+
+<div class="panel panel-primary">
+  <div class="panel-heading">Research and Development</div>
+  <b>Master Thesis Topic<b>: A Method for Exploring Bipolar Disorder Behaviors on Twitter <br>
+  <b>Goal</b>: In this paper, we propose to contribute to the study of bipolar disorder in social media primarily by designing a method to auto detect depressive and hypomanic episodes at an individual level in social media with respect to criteria that is based on professional clinical criteria for bipolar disorder (DSM-V). However, given that the diagnostic criteria is designed for observations of symptoms in a physical environment, we design and explore several custom behavioural criteria. To quantify these behaviours in a social media setting; sentiment, emotion and linguistic features are employed to capture mood disturbances and mentions of a wide range of physical symptoms. Bipolar behaviours are further explored with respect to time and location and a visualization tool is proposed for exploring bipolar behaviours with respect to spatio-temporal parameters.
+ <br>                                                                                                               <b>Data extraction</b>: Developed python program to extract data from Twitter REST API based on keywords
+  <br>
+
+  <b>Data exploration</b>: Wrote Python and R scripts to explore and visualize data distributions such as TF/IDF and frequency distributions.
+  <br>
+
+  <b>Data Pre-processing</b>: Utilized Python libraries (NLTK) to carry out tasks including removing URLs, mentions, replacing emojis and stemming
+  <br>
+
+  <b>Data Preparation</b>: Label user tweets with features to be used in analysis. User tweets were assigned to one of four major classes of emotions based on the Circumplex model of affect. Tweets were also checked for keywords related to symptoms occurring during the mood cycle including religious inspirations, alcohol abuse, medication mention, hyper-active symptoms.
+  <br>
+
+  <b>Experiments</b>:
+  A series of experiments were conducted and compared to a dataset with users who did not have any signs of bipolar behavior. Results showed that our method was able to detect bipolar behaviours among patients. In addition, results suggest that awareness hashtags and depressive symptoms keywords can serve as additional indicators of depressive behaviour in social media. Emotion features were found to present clear differences in depressive behaviour between bipolar and normal user dataset.
+  <br>
+
+  <b>Python Library Highlights</b>:
+  - Tweepy
+  - SciPy (numpy, matplotlib, pandas)
+  - Jupyter
+  - Folium (used for maps)
+
+  <br>
+  <b><a href = "https://github.com/nweat/mental-health-research">Code</a></b>
+
+
+</div>
+
+
 
 <div class="panel panel-primary">
       <div class="panel-heading">Good Reads</div>
