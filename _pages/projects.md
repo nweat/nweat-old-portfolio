@@ -97,8 +97,9 @@ We developed a dating service that recommends potential matches to users. We use
 <br>- Use Django authentication
 
 
+<br><br>
 
-<h1>Passtime/Freelance</h1>
+<h1>Passtime Projects</h1>
 <div class="panel panel-primary">
       <ul class="list-group">
 
@@ -130,8 +131,8 @@ We developed a dating service that recommends potential matches to users. We use
 
 <h1>App Ideas</h1>
 These are just some ideas sparked from personal experiences:
-<br>-Booking app to better connect users and businesses
-<br>-Homework correcting system
-<br>-Neighbourhood watch app - The idea of this is to allow community residents to report crime in their area anonymously
-<br>-Visualization of Github Jobs
-<br>-Detect emotion level of posts
+<br>- Booking app to better connect users and businesses
+<br>- Homework correcting system
+<br>- Neighbourhood watch app - The idea of this is to allow community residents to report crime in their area anonymously
+<br>- Visualization of Github Jobs
+<br>- Detect emotion level of posts

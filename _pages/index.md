@@ -15,12 +15,12 @@ date: 2019-08-10
       <li class="list-group-item">
       <b>Master in Information Systems and Applications </b>
       <br><i>National Tsing Hua University </i>
-      <br><span>2015-2017</span>
+      <br><span>2015 - 2017</span>
       <br>Thesis Topic: A Method for Exploring Bipolar Disorder Behaviors on Twitter
-      <br><br>
+      <br>
       <br><b>Bachelor of Science in Information Technology</b>
       <br><i>University of Belize </i>
-      <br><span>2008-2011</span>
+      <br><span>2008 - 2011</span>
       <br><i>Cum Laude Honours</i>
       </li>
 
@@ -95,7 +95,7 @@ date: 2019-08-10
 
 <div class="panel panel-primary">
   <div class="panel-heading">Research and Development</div>
-  <b>Master Thesis Topic<b>: A Method for Exploring Bipolar Disorder Behaviors on Twitter <br>
+  <b>Master Thesis Topic</b>: A Method for Exploring Bipolar Disorder Behaviors on Twitter <br>
   <b>Goal</b>: In this paper, we propose to contribute to the study of bipolar disorder in social media primarily by designing a method to auto detect depressive and hypomanic episodes at an individual level in social media with respect to criteria that is based on professional clinical criteria for bipolar disorder (DSM-V). However, given that the diagnostic criteria is designed for observations of symptoms in a physical environment, we design and explore several custom behavioural criteria. To quantify these behaviours in a social media setting; sentiment, emotion and linguistic features are employed to capture mood disturbances and mentions of a wide range of physical symptoms. Bipolar behaviours are further explored with respect to time and location and a visualization tool is proposed for exploring bipolar behaviours with respect to spatio-temporal parameters.
  <br>                                                                                                               <b>Data extraction</b>: Developed python program to extract data from Twitter REST API based on keywords
   <br>
