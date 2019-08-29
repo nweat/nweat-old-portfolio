@@ -6,93 +6,91 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Nicole Weatherburne"
-title_separator          : "-"
-name                     : "Nicole Weatherburne"
-description              : "Nicole Weatherburne Website"
-url                      : "https://nweat.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-gh_repo                  :
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+locale: "en-US"
+title: "Nicole Weatherburne"
+title_separator: "-"
+name: "Nicole Weatherburne"
+description: "Nicole Weatherburne Website"
+url: "https://nweat.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: # the subpath of your site, e.g. "/blog"
+gh_repo:
+teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute: 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", custom"
+  provider: # false (default), "disqus", "discourse", "facebook", "google-plus", custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname: # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    appid:
+    num_posts: # 5 (default)
+    colorscheme: # "light" (default), "dark"
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
+google_site_verification:
+bing_site_verification:
+alexa_site_verification:
+yandex_site_verification:
 
 # Social Sharing
 twitter:
-  username               :
+  username:
 facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 : # Open Graph/Twitter default site image
+  username:
+  app_id:
+  publisher:
+og_image: # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type: # Person or Organization (defaults to Person)
+  name: # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider: false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id:
 
 # Google AdSense
-google_ad_client         :
-google_ad_slot           :
-
+google_ad_client:
+google_ad_slot:
 
 # Site Author
 author:
-  name             :
-  avatar           : "Avatar.png"
-  bio              : "Developer, researcher, teacher, travel enthusiast"
-  location         :
-  email            : "nikkiweat@gmail.com"
-  uri              :
-  bitbucket        :
-  codepen          : "nweat"
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "nweat"
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         : "nweat"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "nikkiweat_nikki"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  publickey        :
-
+  name:
+  avatar: "Avatar.png"
+  bio: "Developer, researcher, teacher, travel enthusiast"
+  location:
+  email: "nikkiweat@gmail.com"
+  uri:
+  bitbucket:
+  codepen: "nweat"
+  dribbble:
+  flickr:
+  facebook:
+  foursquare:
+  github: "nweat"
+  google_plus:
+  keybase:
+  instagram:
+  lastfm:
+  linkedin: "nweat"
+  pinterest:
+  soundcloud:
+  stackoverflow: # http://stackoverflow.com/users/123456/username
+  steam:
+  tumblr:
+  twitter: "nikkiweat_nikki"
+  vine:
+  weibo:
+  xing:
+  youtube:
+  medium: "@nikkiweat"
 
 # Reading Files
 include:
@@ -127,14 +125,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -147,13 +143,11 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
 # Outputting
 permalink: pretty
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: Asia/Taipei # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
 
 # Plugins
 gems:
@@ -170,7 +164,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
 
 # Archives
 #  Type
@@ -199,7 +192,6 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
 
 # HTML Compression
 # - http://jch.penibelst.de/
