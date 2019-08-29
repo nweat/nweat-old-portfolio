@@ -15,13 +15,13 @@ Developed a React web application where users submit requests to a Spring Boot R
 <br><br>
 
 <h1>XML file parser service</h1>
-This service searches for special XML Configuration files from a defined location and parses them every hour. Files go through a number of validations and then processed accordingly.
+This service searches for special XML Configuration files from a defined location and parses them every hour. Files go through a number of validations and then processed accordingly. I needed to deploy a stable service that is able to process large amounts of files in less time. After lots of reading blogs and recommendations from the Python community I decided to go with this setup. 
 <br><br>Major features:
 <br>- Refactored code to allow switching out any part of the tech stack if necessary
 <br>- Setup Celery Flower plugin in order to monitor worker uptime and jobs processed
 <br>- Use ElementTree library for parsing XML
 <figure>
-<a href="images/xml-conf-parser-architecture.jpg"><img src="images/xml-conf-parser-architecture.jpg"></a>
+<a href="images/otp.png"><img src="images/otp.png"></a>
 <figcaption>XML Configuration parser Architecture</figcaption>
 </figure>
 

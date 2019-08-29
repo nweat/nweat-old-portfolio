@@ -4,6 +4,7 @@ excerpt: "About Nicole Weatherburne"
 permalink: /index.html
 date: 2019-08-10
 ---
+
 <!--<link rel="stylesheet" href="assets/css/boostrap.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>-->
@@ -32,13 +33,15 @@ date: 2019-08-10
 
       <li class="list-group-item">
       <span class="underline">Personal development</span>
+      <br><b> <a href = "https://www.udemy.com/react-redux">Modern React with Redux (Ongoing)</a></b>
+      <br><b> <a href = "https://www.udemy.com/advanced-css-and-sass">Advanced CSS and Sass (Ongoing)</a></b>
       <br><b> <a href = "https://www.freecodecamp.com/nweat">FreeCodeCamp</a></b>
-      <br><b> <a href = "https://www.udemy.com/user/nicole493/">Udemy</a></b>
       <br><b> <a href = "https://www.hackerrank.com/nikkiweat">Hackerrank</a></b>
       </li>
 
 
       </ul>
+
 </div>
 
 <div class="panel panel-primary">
@@ -47,8 +50,8 @@ date: 2019-08-10
 
       <li class="list-group-item">
       <b> Freelance Content Developer (2018)</b>
-      <br><i> ALPHACamp </i>  
-      <ul>      
+      <br><i> ALPHACamp </i>
+      <ul>
       <li>Assist in writing course modules for an online e-learning platform focused on delivering courses related to web development</li>
       </ul>
       </li>
@@ -75,7 +78,7 @@ date: 2019-08-10
       <b> Database Administrator (August 2011 to August 2015)</b>
       <br><i> Environmental Research Institute</i><br>
       My job title was DBA but actually I spent most of my time developing web applications for data management and analysis. Basically, environmental researchers wanted insightful visualizations to help them answer questions like: Is there an increase in coral bleaching activity? Are these incidents localized? My roles were mainly:
-      <ul>      
+      <ul>
       <li>Developed web applications for data management and analysis using PHP CodeIgniter framework and JavaScript/JQuery </li>
       <li>Generated timely ad-hoc reports for company directors</li>
       <li>Maintained a publications repository for housing of Natural Resource Management publications focused in Belize (<a href = "http://eprints.uberibz.org/">http://eprints.uberibz.org/</a>)</li>
@@ -90,8 +93,8 @@ date: 2019-08-10
       </li>
 
       </ul>
-</div>
 
+</div>
 
 <div class="panel panel-primary">
   <div class="panel-heading">Research and Development</div>
@@ -113,8 +116,6 @@ date: 2019-08-10
   </ul>
 </div>
 
-
-
 <div class="panel panel-primary">
       <div class="panel-heading">Good Reads</div>
       <ul class="list-group">
@@ -135,4 +136,5 @@ date: 2019-08-10
       </li>
 
       </ul>
+
 </div>
