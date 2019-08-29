@@ -5,6 +5,15 @@ permalink: /projects.html
 date: 2019-08-10
 ---
 
+<h1>Geoink Service</h1>
+Developed a React web application where users submit requests to a Spring Boot RESTful Web API responsible for performing  defined manipulations on large amounts of data in an Oracle database.
+<figure>
+<a href="images/geoink.png"><img src="images/geoink.png"></a>
+<figcaption>Geoink service Architecture</figcaption>
+</figure>
+
+<br><br>
+
 <h1>XML file parser service</h1>
 This service searches for special XML Configuration files from a defined location and parses them every hour. Files go through a number of validations and then processed accordingly.
 <br><br>Major features:
@@ -87,7 +96,6 @@ The dataset was provided by an e-learning company based in Taiwan. Their online 
 <br>- Data mining algorithm (Supervised algorithm to perform classification: C4.5 Decision Tree - 70% training/30% testing using WEKA)
 <br>- Data mining evaluation (10 Fold Cross Validation with 64% accuracy)
 
-
 <br><br>
 
 <h1><a href = "https://github.com/rjollet/NeverAloneNTHU">Never Alone Dating Service</a></h1>
@@ -95,7 +103,6 @@ We developed a dating service that recommends potential matches to users. We use
 <br><br>Major Features/Tasks:
 <br>- Built a recommendation algorithm
 <br>- Use Django authentication
-
 
 <br><br>
 
@@ -113,7 +120,7 @@ We developed a dating service that recommends potential matches to users. We use
       <li class="list-group-item">
       <b>Resource Stop (2016)</b>
       <br> I didn't have a way to manage online resources so I decided to build a simple web application to do this. I decided to use the MEAN stack (Mongo, Express, Angular, NodeJS) because it was getting a lot of attention at the time. There are a lot of plugins available I found was easy to setup. Mongoose and Passport are such examples for database modeling and google authentication respectively.
-			<br><a href = "https://github.com/nweat/resource-stop"> Github </a>
+    		<br><a href = "https://github.com/nweat/resource-stop"> Github </a>
       <br><a href = "https://nikki-resource-stop.herokuapp.com/">Heroku</a>
       </li>
 
@@ -125,6 +132,7 @@ We developed a dating service that recommends potential matches to users. We use
       </li>
 
       </ul>
+
 </div>
 
 <br>
