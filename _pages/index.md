@@ -33,8 +33,8 @@ date: 2019-08-10
 
       <li class="list-group-item">
       <span class="underline">Personal development</span>
-      <br><b> <a href = "https://www.udemy.com/react-redux">Modern React with Redux (Ongoing)</a></b>
-      <br><b> <a href = "https://www.udemy.com/advanced-css-and-sass">Advanced CSS and Sass (Ongoing)</a></b>
+      <br><b> <a href = "https://www.udemy.com/react-redux">Modern React with Redux</a></b>
+      <br><b> <a href = "https://www.udemy.com/advanced-css-and-sass">Advanced CSS and Sass</a></b>
       <br><b> <a href = "https://www.freecodecamp.com/nweat">FreeCodeCamp</a></b>
       <br><b> <a href = "https://www.hackerrank.com/nikkiweat">Hackerrank</a></b>
       </li>
