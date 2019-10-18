@@ -2,8 +2,17 @@
 sitemap: false
 excerpt: "Nicole Weatherburne Projects"
 permalink: /projects.html
-date: 2019-08-10
+date: 2019-10-18
 ---
+
+<h1><a href = "https://github.com/nweat/udemy-course-tracker">FB messenger Bot</a></h1>
+Built an FB messenger bot for the purpose of checking for content updates to my Udemy courses. I also want to keep track of when there are discounts for courses I would like to take.
+<figure>
+<a href="images/snapshot.PNG"><img src="images/snapshot.PNG"></a>
+<figcaption>FB Bot</figcaption>
+</figure>
+
+<br><br>
 
 <h1>Geoink Service</h1>
 Developed a React web application where users submit requests to a Spring Boot RESTful Web API responsible for performing  defined manipulations on large amounts of data in an Oracle database.
