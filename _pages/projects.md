@@ -5,8 +5,8 @@ permalink: /projects.html
 date: 2019-10-18
 ---
 
-<h1><a href = "https://github.com/nweat/udemy-course-tracker">FB messenger Bot</a></h1>
-Built an FB messenger bot for the purpose of checking for content updates to my Udemy courses. I also want to keep track of when there are discounts for courses I would like to take.
+<h1><a href = "https://github.com/nweat/udemy-course-tracker">Udemy Bot</a></h1>
+Built an FB messenger bot for the purpose of checking for content updates for paid Udemy courses. It also checks when there are discounts for courses I would like to buy. The RESTFul API was built using Node.js/Express and is hosted on Heroku. Webhooks enable the seamless integration between the API and the FB Messenger Platform. 
 <figure>
 <a href="images/snapshot.PNG"><img src="images/snapshot.PNG"></a>
 <figcaption>FB Bot</figcaption>
@@ -118,6 +118,26 @@ We developed a dating service that recommends potential matches to users. We use
 <h1>Passtime Projects</h1>
 <div class="panel panel-primary">
       <ul class="list-group">
+
+      <li class="list-group-item">
+      <b>Bday bot - Express/Socket.io/React (2019)</b>
+      <br> Design a simple bot that starts a birthday conversation with a given user
+      <br> <a href = "https://github.com/nweat/bday-bot"> Github </a>
+      </li>
+
+      <li class="list-group-item">
+      <b>Node.js/Express and Socket.io (2019)</b>
+      <br> Design a chat room application with Node.js and Socket.io
+      <br> <a href = "https://github.com/nweat/chat-app-socketio"> Github </a>
+      <br> <a href = "https://nw-chatapp.herokuapp.com/"> Heroku </a>
+      </li>
+
+      <li class="list-group-item">
+      <b>Angular and Bootstrap (2017)</b>
+      <br> Design a file uploader with progress bar. This one was just for fun as I was bored at the time! Please feel free to use in your own apps. :)
+      <br> <a href = "https://github.com/nweat/angular-bootstrap-upload-with-progress-bar"> Github </a>
+      <br> <a href = "http://sample-angular-bootstrap.herokuapp.com/#/"> Heroku </a>
+      </li>
 
       <li class="list-group-item">
       <b>Angular and Bootstrap (2017)</b>
