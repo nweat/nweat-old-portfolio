@@ -140,13 +140,6 @@ We developed a dating service that recommends potential matches to users. We use
       </li>
 
       <li class="list-group-item">
-      <b>Angular and Bootstrap (2017)</b>
-      <br> Design a file uploader with progress bar. This one was just for fun as I was bored at the time! Please feel free to use in your own apps. :)
-      <br> <a href = "https://github.com/nweat/angular-bootstrap-upload-with-progress-bar"> Github </a>
-      <br> <a href = "http://sample-angular-bootstrap.herokuapp.com/#/"> Heroku </a>
-      </li>
-
-      <li class="list-group-item">
       <b>Resource Stop (2016)</b>
       <br> I didn't have a way to manage online resources so I decided to build a simple web application to do this. I decided to use the MEAN stack (Mongo, Express, Angular, NodeJS) because it was getting a lot of attention at the time. There are a lot of plugins available I found was easy to setup. Mongoose and Passport are such examples for database modeling and google authentication respectively.
     		<br><a href = "https://github.com/nweat/resource-stop"> Github </a>
