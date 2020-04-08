@@ -36,6 +36,7 @@ date: 2019-08-10
       <br><b> <a href = "https://www.udemy.com/react-redux">Modern React with Redux</a></b>
       <br><b> <a href = "https://www.udemy.com/course/the-complete-nodejs-developer-course-2/">The Complete Node.js Developer Course</a></b>
       <br><b> <a href = "https://www.udemy.com/course/node-with-react-fullstack-web-development/">Node with React: Fullstack Web Development</a></b>
+      <br><b> <a href = "https://www.udemy.com/course/advanced-node-for-developers/">Node JS: Advanced Concepts</a></b>
       <br><b> <a href = "https://www.udemy.com/advanced-css-and-sass">Advanced CSS and Sass</a></b>
       <br><b> <a href = "https://www.freecodecamp.com/nweat">FreeCodeCamp</a></b>
       <br><b> <a href = "https://www.hackerrank.com/nikkiweat">Hackerrank</a></b>
@@ -59,10 +60,11 @@ date: 2019-08-10
       </li>
 
       <li class="list-group-item">
-      <b> Software Engineer (September 2017-)</b>
+      <b> Senior Software Engineer (September 2017-)</b>
       <br><i> Dialog Semiconductor </i>
       <ul>
       <li> On a given day I am brainstorming about modern tech that my team and I could use to complement legacy systems with the goal of extending and improving system functionality and user experience </li>
+      <li>I am also currently leading what I call the "Innovate Friday" initiative. The idea behind this is to set aside a day that is meant for improving existing services/workflows used by our team to increase productivity or just hack on a side project together.</li>
       <li> Lead the design and implementation of a Continuous Integration and Deployment strategy with Jenkins. The goal of this is to define a standard pipeline that will be used to automate the build, test and deployment of application staging and production environments. </li>
       <li> Designed a distributed system to automate processing of special configuration files. Flask was my framework of choice, Celery worker to asynchronously process files, Redis was used as the message broker and Flower to monitor celery tasks. Thanks to this blog (<a href = "http://allynh.com/blog/flask-asynchronous-background-tasks-with-celery-and-redis/">Flask asynchronous background tasks with Celery and Redis</a>) for getting me started! </li>
       <li> Develop a Spring Boot microservice responsible for triggering database functions and performing manipulation of data asynchronously. To leverage this service, I developed a SPA built with Angular 1.7 where users can submit requests to the backend and view real time status of their requests. Users receive a notification email when the request is complete with a detailed summary of their request. </li>
