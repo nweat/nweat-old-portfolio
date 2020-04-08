@@ -120,6 +120,13 @@ We developed a dating service that recommends potential matches to users. We use
       <ul class="list-group">
 
       <li class="list-group-item">
+      <b>HealthyBites - React/Redux/React Router/Jest (2020)</b>
+      <br> Front end design concept of an online store where users can purchase healthy meal options. The goal is to show the power of React and Redux to manage state along with a concrete responsive UI design.
+      <br> <a href = "https://github.com/nweat/shopping-cart-react-redux"> Github </a>
+      <br> <a href = "https://healthybites.herokuapp.com/"> Heroku </a>
+      </li>
+
+      <li class="list-group-item">
       <b>Bday bot - Express/Socket.io/React (2019)</b>
       <br> Design a simple bot that starts a birthday conversation with a given user
       <br> <a href = "https://github.com/nweat/bday-bot"> Github </a>
