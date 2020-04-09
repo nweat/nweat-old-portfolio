@@ -5,6 +5,15 @@ permalink: /projects.html
 date: 2019-10-18
 ---
 
+<h1><a href = "https://github.com/nweat/QuickCampaign">QuickCampaign</a></h1>
+The goal of QuickCampaign is to allow registered users to create Email campaigns that can be sent to many users in a time. Email responses are captured and the application provides an interface where you can visualize user responses. This is particularly useful when you are looking to get feedback on something or just need to send out a survey. <a href = "https://pure-spire-72385.herokuapp.com/">Check it out on Heroku</a> 
+<figure>
+<a href="images/quickcampaign.png"><img src="images/quickcampaign.png"></a>
+<figcaption>QuickCampaign</figcaption>
+</figure>
+
+<br><br>
+
 <h1><a href = "https://github.com/nweat/udemy-course-tracker">Udemy Bot</a></h1>
 Built an FB messenger bot for the purpose of checking for content updates for paid Udemy courses. It also checks when there are discounts for courses I would like to buy. The RESTFul API was built using Node.js/Express and is hosted on Heroku. Webhooks enable the seamless integration between the API and the FB Messenger Platform. 
 <figure>
