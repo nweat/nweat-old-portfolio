@@ -37,6 +37,7 @@ date: 2019-08-10
       <br><b> <a href = "https://www.udemy.com/course/the-complete-nodejs-developer-course-2/">The Complete Node.js Developer Course</a></b>
       <br><b> <a href = "https://www.udemy.com/course/node-with-react-fullstack-web-development/">Node with React: Fullstack Web Development</a></b>
       <br><b> <a href = "https://www.udemy.com/course/advanced-node-for-developers/">Node JS: Advanced Concepts</a></b>
+      <br><b> <a href = "https://www.udemy.com/course/complete-python-bootcamp/">Complete Python Bootcamp: Go from zero to hero in Python 3</a></b>
       <br><b> <a href = "https://www.udemy.com/advanced-css-and-sass">Advanced CSS and Sass</a></b>
       <br><b> <a href = "https://www.freecodecamp.com/nweat">FreeCodeCamp</a></b>
       <br><b> <a href = "https://www.hackerrank.com/nikkiweat">Hackerrank</a></b>
