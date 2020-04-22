@@ -23,11 +23,11 @@ Built an FB messenger bot for the purpose of checking for content updates for pa
 
 <br><br>
 
-<h1>Geoink Service</h1>
-Developed a React web application where users submit requests to a Spring Boot RESTful Web API responsible for performing  defined manipulations on large amounts of data in an Oracle database.
+<h1>Wafer inking service</h1>
+Developed a React web application that allows users to upload wafer configuration data. The wafer configuration is applied to a wafer map which involves performing manipulations on large amounts of data. This process is part of the wafer testing process. 
 <figure>
 <a href="images/geoink.png"><img src="images/geoink.png"></a>
-<figcaption>Geoink service Architecture</figcaption>
+<figcaption>Wafer inking service Architecture</figcaption>
 </figure>
 
 <br><br>
