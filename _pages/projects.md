@@ -2,8 +2,32 @@
 sitemap: false
 excerpt: "Nicole Weatherburne Projects"
 permalink: /projects.html
-date: 2019-10-18
+date: 2020-05-25
 ---
+
+<h1>Wafer Map Visualizer</h1>
+In the semiconductor industry, a wafer map is used to represent the performance of semiconductor devices. Each tested die is assigned a bin value depending on the test result. Bins are represented by different colors making it easy for engineers to visualize product test results and recognize failure patterns. 
+The reason for the architecture explained below is primarily to handle products with high gross dies per wafer.
+
+<br><br>Major Features:
+<br> - Using Redis Queue (RQ), wafer and chart data can be broken into chunks and pre-processed in background jobs. Job results are kept in Redis which allows RQ to serve as a caching mechanism as well.
+<br> - In the front end, <a href = "http://oboejs.com/">Oboe.js</a> consumes job results stored as JSON and streams it to the front end, allowing visualizations to be drawn incrementally. This improves the perceptual performance for users because the user does not have to wait until all the data is available to start seeing the visualizations.
+
+<br><br>Tech stack:
+<br> - Pandas
+<br> - Matplotlib
+<br> - D3.js
+<br> - Highcharts
+<br> - Redis Queue (Python RQ)
+<br> - Flask/Gunicorn
+<br> - NGINX
+
+<figure>
+<a href="images/wafer_gallery.png"><img src="images/wafer_gallery.png"></a>
+<figcaption>Wafer Gallery</figcaption>
+</figure>
+
+<br><br>
 
 <h1><a href = "https://github.com/nweat/QuickCampaign">QuickCampaign</a></h1>
 The goal of QuickCampaign is to allow registered users to create Email campaigns that can be sent to many users in a time. Email responses are captured and the application provides an interface where you can visualize user responses. This is particularly useful when you are looking to get feedback on something or just need to send out a survey. <a href = "https://pure-spire-72385.herokuapp.com/">Check it out on Heroku</a> 
