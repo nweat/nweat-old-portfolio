@@ -5,7 +5,16 @@ permalink: /projects.html
 date: 2020-05-25
 ---
 
-<h1>Wafer Map Visualizer</h1>
+<h1><a href = "https://github.com/nweat/udemy-course-tracker">Udemy Bot (2020)</a></h1>
+Built an FB messenger bot for the purpose of checking for content updates for paid Udemy courses. It also checks when there are discounts for courses I would like to buy. The RESTFul API was built using Node.js/Express and is hosted on Heroku. Webhooks enable the seamless integration between the API and the FB Messenger Platform. 
+<figure>
+<a href="images/snapshot.PNG"><img src="images/snapshot.PNG"></a>
+<figcaption>FB Bot</figcaption>
+</figure>
+
+<br><br>
+
+<h1>Wafer Map Visualizer (2020)</h1>
 In the semiconductor industry, a wafer map is used to represent the performance of semiconductor devices. Each tested die is assigned a bin value depending on the test result. Bins are represented by different colors making it easy for engineers to visualize product test results and recognize failure patterns. 
 The reason for the architecture explained below is primarily to handle products with high gross dies per wafer.
 
@@ -29,8 +38,10 @@ The reason for the architecture explained below is primarily to handle products 
 
 <br><br>
 
-<h1><a href = "https://github.com/nweat/QuickCampaign">QuickCampaign</a></h1>
-The goal of QuickCampaign is to allow registered users to create Email campaigns that can be sent to many users in a time. Email responses are captured and the application provides an interface where you can visualize user responses. This is particularly useful when you are looking to get feedback on something or just need to send out a survey. <a href = "https://pure-spire-72385.herokuapp.com/">Check it out on Heroku</a> 
+<h1><a href = "https://pure-spire-72385.herokuapp.com/">QuickCampaign (2020)</a></h1>
+The goal of QuickCampaign is to allow registered users to create Email campaigns that can be sent to many users in a time. Email responses are captured and the application provides an interface where you can visualize user responses. This is particularly useful when you are looking to get feedback on something or just need to send out a survey. 
+<br>
+<a href = "https://github.com/nweat/QuickCampaign">Github</a> 
 <figure>
 <a href="images/quickcampaign.png"><img src="images/quickcampaign.png"></a>
 <figcaption>QuickCampaign</figcaption>
@@ -38,16 +49,7 @@ The goal of QuickCampaign is to allow registered users to create Email campaigns
 
 <br><br>
 
-<h1><a href = "https://github.com/nweat/udemy-course-tracker">Udemy Bot</a></h1>
-Built an FB messenger bot for the purpose of checking for content updates for paid Udemy courses. It also checks when there are discounts for courses I would like to buy. The RESTFul API was built using Node.js/Express and is hosted on Heroku. Webhooks enable the seamless integration between the API and the FB Messenger Platform. 
-<figure>
-<a href="images/snapshot.PNG"><img src="images/snapshot.PNG"></a>
-<figcaption>FB Bot</figcaption>
-</figure>
-
-<br><br>
-
-<h1>Wafer inking service</h1>
+<h1>Wafer inking service (2019)</h1>
 Developed a React web application that allows users to upload wafer configuration data. The wafer configuration is applied to a wafer map which involves performing manipulations on large amounts of data. This process is part of the wafer testing process. 
 <figure>
 <a href="images/geoink.png"><img src="images/geoink.png"></a>
@@ -56,7 +58,7 @@ Developed a React web application that allows users to upload wafer configuratio
 
 <br><br>
 
-<h1>XML file parser service</h1>
+<h1>XML file parser service (2018)</h1>
 This service searches for special XML Configuration files from a defined location and parses them every hour. Files go through a number of validations and then processed accordingly. I needed to deploy a stable service that is able to process large amounts of files in less time. After lots of reading blogs and recommendations from the Python community I decided to go with this setup. 
 <br><br>Major features:
 <br>- Refactored code to allow switching out any part of the tech stack if necessary
@@ -69,7 +71,7 @@ This service searches for special XML Configuration files from a defined locatio
 
 <br><br>
 
-<h1><a href = "https://github.com/wisebits">Wisebits URL Shortner</a></h1>
+<h1><a href = "https://github.com/wisebits">Wisebits URL Shortner (2017)</a></h1>
 Developed a secured service that allows authorized users to generate and share shortened URLs. Registered users can create a shortened URL that is secure and shareable among users with appropriate permissions. The service was built in Ruby (Sinatra) using Slim and Bootstrap for the client application. We used heroku and postgres to host our services and databases. We made use of <a href = "https://github.com/cryptosphere/rbnacl">Rbnacl</a> cryptographic libraries for implementing security features.
 <br><br>Gained experience in developing a secured distributed architecture which included:
 <br>- Securing databases through SQL injection, mass assignment restrictions, ORM based encryption
@@ -89,7 +91,17 @@ Developed a secured service that allows authorized users to generate and share s
 
 <br><br>
 
-<h1><a href = "https://github.com/ZhongMeiZhou">TraViz</a></h1>
+<h1><a href = "https://github.com/Hopenglish-Miners">Hopenglish Miners (2017)</a></h1>
+The dataset was provided by an e-learning company based in Taiwan. Their online e-learning platform provides different alternatives to efficiently learn the English language through the use of multimedia content, such as video clips and audio recordings. The dataset consisted of video details and student behaviours which show how students interacted with videos. We were asked to discover some interesting insights that we can provide to the company to better understand their clients and improve their service. After gaining extensive insights into the data, we found a pattern in the student behaviour which could eventually lead to students quitting the service. We performed a classification using a decision tree to perform a prediction in an effort to identify when students lose interest. Our argument is that if we can identify when students lose interest, the company can recommend better videos that could keep the users engaged and reduce student dropout. We developed a web application to demonstrate the real world application of our proposal.
+<br><br>Major Features/Tasks:
+<br>- Data Exploration/Visualization (Pandas, Jupyter, K-means clustering algorithm, Plotly)
+<br>- Data pre-processing (Feature selection/creation to address curse of dimensionality problems - clustering algorithms)
+<br>- Data mining algorithm (Supervised algorithm to perform classification: C4.5 Decision Tree - 70% training/30% testing using WEKA)
+<br>- Data mining evaluation (10 Fold Cross Validation with 64% accuracy)
+
+<br><br>
+
+<h1><a href = "https://github.com/ZhongMeiZhou">TraViz (2016)</a></h1>
 Developed TraViz Web Application and Data API service. TraViz allows users to generate visualizations of lonely planet tour listings based on specified countries, categories and price range. The service was built in Ruby (Sinatra) using Slim and Bootstrap for the client application.
 <br><br>Gained experience in developing a service following a modern service oriented architecture design:
 <br>- Followed Agile development model
@@ -110,7 +122,15 @@ Developed TraViz Web Application and Data API service. TraViz allows users to ge
 
 <br><br>
 
-<h1>Coral Bleaching Information System</h1>
+<h1><a href = "https://github.com/rjollet/NeverAloneNTHU">Never Alone Dating Service (2016)</a></h1>
+We developed a dating service that recommends potential matches to users. We used Django Framework and Neo4J Graph Database. We wrote recommendation algorithms and made use of concepts such as Jaccard Similarity in order to recommend matches based on similar interests.
+<br><br>Major Features/Tasks:
+<br>- Built a recommendation algorithm
+<br>- Use Django authentication
+
+<br><br>
+
+<h1>Coral Bleaching Information System  (2014)</h1>
 This application was designed to allow for easy management of data (CRUD), perform data analysis and provide insightful visualizations to environmental researchers. The application was built using PHP CodeIgniter framework and JavaScript/JQuery
 <br><br>Major Features/Tasks:
 <br>- File upload functionality to allow upload of data entry records from custom excel templates
@@ -130,27 +150,18 @@ This application was designed to allow for easy management of data (CRUD), perfo
 
 <br><br>
 
-<h1><a href = "https://github.com/Hopenglish-Miners">Hopenglish Miners</a></h1>
-The dataset was provided by an e-learning company based in Taiwan. Their online e-learning platform provides different alternatives to efficiently learn the English language through the use of multimedia content, such as video clips and audio recordings. The dataset consisted of video details and student behaviours which show how students interacted with videos. We were asked to discover some interesting insights that we can provide to the company to better understand their clients and improve their service. After gaining extensive insights into the data, we found a pattern in the student behaviour which could eventually lead to students quitting the service. We performed a classification using a decision tree to perform a prediction in an effort to identify when students lose interest. Our argument is that if we can identify when students lose interest, the company can recommend better videos that could keep the users engaged and reduce student dropout. We developed a web application to demonstrate the real world application of our proposal.
-<br><br>Major Features/Tasks:
-<br>- Data Exploration/Visualization (Pandas, Jupyter, K-means clustering algorithm, Plotly)
-<br>- Data pre-processing (Feature selection/creation to address curse of dimensionality problems - clustering algorithms)
-<br>- Data mining algorithm (Supervised algorithm to perform classification: C4.5 Decision Tree - 70% training/30% testing using WEKA)
-<br>- Data mining evaluation (10 Fold Cross Validation with 64% accuracy)
-
-<br><br>
-
-<h1><a href = "https://github.com/rjollet/NeverAloneNTHU">Never Alone Dating Service</a></h1>
-We developed a dating service that recommends potential matches to users. We used Django Framework and Neo4J Graph Database. We wrote recommendation algorithms and made use of concepts such as Jaccard Similarity in order to recommend matches based on similar interests.
-<br><br>Major Features/Tasks:
-<br>- Built a recommendation algorithm
-<br>- Use Django authentication
-
-<br><br>
-
-<h1>Passtime Projects</h1>
+<h1>Passtime Projects/Competitions</h1>
 <div class="panel panel-primary">
       <ul class="list-group">
+
+      <li class="list-group-item">
+      <b>Know my Wata (2020)</b>
+      <br> Submission idea for People's Livelihood Public IOT Data Competition (Taiwan). The goal was to create an application where the community can quickly access relevant information on water sources particularly rivers and reservoirs around them.
+      <br> Front end: React/Redux/React-Leaflet/React-Vis
+      <br> Back end: Pandas/Flask
+      <br> <a href = "https://github.com/nweat/know-your-water"> Github </a>
+      <br> <a href = "https://knowmywata.herokuapp.com/"> Heroku </a>
+      </li>
 
       <li class="list-group-item">
       <b>HealthyBites - React/Redux/React Router/Jest (2020)</b>
@@ -201,6 +212,7 @@ We developed a dating service that recommends potential matches to users. We use
 
 <h1>App Ideas</h1>
 These are just some ideas sparked from personal experiences:
+<br>- Beach Fun and Cleanup - a blossoming idea for a way for tourists to have fun and keeping the environment clean 
 <br>- Booking app to better connect users and businesses
 <br>- Homework correcting system
 <br>- Neighbourhood watch app - The idea of this is to allow community residents to report crime in their area anonymously
