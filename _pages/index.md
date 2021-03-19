@@ -2,7 +2,7 @@
 sitemap: false
 excerpt: "About Nicole Weatherburne"
 permalink: /index.html
-date: 2019-08-10
+date: 2020-03-19
 ---
 
 <!--<link rel="stylesheet" href="assets/css/boostrap.min.css">
@@ -33,6 +33,7 @@ date: 2019-08-10
 
       <li class="list-group-item">
       <span class="underline">Online courses</span>
+      <br><b> <a href = "https://www.udemy.com/course/become-a-product-manager-learn-the-skills-get-a-job">Become a Product Manager</a></b>
       <br><b> <a href = "https://www.udemy.com/react-redux">Modern React with Redux</a></b>
       <br><b> <a href = "https://www.udemy.com/course/the-complete-nodejs-developer-course-2/">The Complete Node.js Developer Course</a></b>
       <br><b> <a href = "https://www.udemy.com/course/node-with-react-fullstack-web-development/">Node with React: Fullstack Web Development</a></b>
@@ -51,6 +52,14 @@ date: 2019-08-10
 <div class="panel panel-primary">
       <div class="panel-heading">Work Experience</div>
       <ul class="list-group">
+      
+      <li class="list-group-item">
+      <b> Fullstack Developer (August 2019-)</b>
+      <br><i> Geothings </i>
+      <ul>
+      <li>Primarily working on enhancing UI/UX and backend features of <a href = "https://geobingan.info">geoBingAn</a> SaaS providing a comprehensive solution to disaster coordination </li>
+      </ul>
+      </li>
 
       <li class="list-group-item">
       <b> Freelance Content Developer (2018)</b>
@@ -61,7 +70,7 @@ date: 2019-08-10
       </li>
 
       <li class="list-group-item">
-      <b> Senior Software Engineer (September 2017-)</b>
+      <b> Senior Software Engineer (September 2017-August 2019)</b>
       <br><i> Dialog Semiconductor </i>
       <ul>
       <li> On a given day I am brainstorming about modern tech that my team and I could use to complement legacy systems with the goal of extending and improving system functionality and user experience </li>
