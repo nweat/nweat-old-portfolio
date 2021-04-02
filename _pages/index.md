@@ -54,7 +54,7 @@ date: 2020-03-19
       <ul class="list-group">
       
       <li class="list-group-item">
-      <b> Fullstack Developer (August 2019-)</b>
+      <b> Fullstack Developer (August 2020-)</b>
       <br><i> Geothings </i>
       <ul>
       <li>Primarily working on enhancing UI/UX and backend features of <a href = "https://geobingan.info">geoBingAn</a> SaaS providing a comprehensive solution to disaster coordination </li>
@@ -62,15 +62,7 @@ date: 2020-03-19
       </li>
 
       <li class="list-group-item">
-      <b> Freelance Content Developer (2018)</b>
-      <br><i> ALPHACamp </i>
-      <ul>
-      <li>Assist in writing course modules for an online e-learning platform focused on delivering courses related to web development</li>
-      </ul>
-      </li>
-
-      <li class="list-group-item">
-      <b> Senior Software Engineer (September 2017-August 2019)</b>
+      <b> Senior Software Engineer (September 2017-August 2020)</b>
       <br><i> Dialog Semiconductor </i>
       <ul>
       <li> On a given day I am brainstorming about modern tech that my team and I could use to complement legacy systems with the goal of extending and improving system functionality and user experience </li>
@@ -86,7 +78,13 @@ date: 2020-03-19
       </ul>
       </li>
 
-
+      <li class="list-group-item">
+      <b> Freelance Content Developer (2018)</b>
+      <br><i> ALPHACamp </i>
+      <ul>
+      <li>Assist in writing course modules for an online e-learning platform focused on delivering courses related to web development</li>
+      </ul>
+      </li>
 
       <li class="list-group-item">
       <b> Database Administrator (August 2011 to August 2015)</b>
