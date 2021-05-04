@@ -57,7 +57,7 @@ date: 2020-03-19
       <b> Fullstack Developer (August 2020-)</b>
       <br><i> Geothings </i>
       <ul>
-      <li>Primarily working on enhancing UI/UX and backend features of <a href = "https://geobingan.info">geoBingAn</a> SaaS providing a comprehensive solution to disaster coordination </li>
+      <li>Primarily working on enhancing UI/UX and backend features of <a href = "https://geobingan.info">geoBingAn</a> SaaS providing a comprehensive solution to disaster coordination. Core Techstack: Angular, Django, AWS Fargate/Lambda, Github Actions</li>
       </ul>
       </li>
 
@@ -82,7 +82,7 @@ date: 2020-03-19
       <b> Freelance Content Developer (2018)</b>
       <br><i> ALPHACamp </i>
       <ul>
-      <li>Assist in writing course modules for an online e-learning platform focused on delivering courses related to web development</li>
+      <li>Assist in writing course modules for an e-learning based startup focused on delivering courses related to web development</li>
       </ul>
       </li>
 
