@@ -187,6 +187,12 @@ endif %}
           ><i class="fa fa-fw fa-medium" aria-hidden="true"></i> Medium</a
         >
       </li>
+      {% endif %}{% if author.hackerrank %}
+      <li>
+        <a href="https://www.hackerrank.com/{{ author.hackerrank }}"
+          ><i class="fa fa-fw fa-hackerrank" aria-hidden="true"></i> HackerRank</a
+        >
+      </li>
       {% endif %}
     </ul>
   </div>
