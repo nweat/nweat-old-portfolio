@@ -45,12 +45,21 @@ date: 2021-08-27
 <div class="panel panel-primary">
       <div class="panel-heading">Work Experience</div>
       <ul class="list-group">
+      <li class="list-group-item">
+      <b> Detroit, USA, Remote (August 2020-)</b>
+      <br><i> DeepHow </i>
+      <ul>
+      <li>Enhancing and maintaining backend services to support DeepHow’s AI platform.</li>
+      </ul>
+      </li>
       
       <li class="list-group-item">
-      <b> Fullstack Developer (August 2020-)</b>
+      <b> Fullstack Developer (August 2020-August 2022)</b>
       <br><i> Geothings </i>
       <ul>
       <li>Primarily working on enhancing UI/UX and backend features of <a href = "https://geobingan.info">geoBingAn</a> SaaS providing a comprehensive solution to disaster coordination.</li>
+      <li>Designed a sensor alert policy architecture to support IoT device monitoring</li>
+      <li>Designed a geofence line bot notification feature</li>
       </ul>
       </li>
 
